@@ -12,4 +12,4 @@ Last update: Sep 2, 2021
 ## Linux
 - [Linux](https://www.linux.com)
 
-[\[Tool\] YouTube to mp3 or mp4 file](https://youtube-to-mp3.org/mp3-convert/)
+[\[Tool\] Convert YouTube link to mp3 or mp4 file](https://youtube-to-mp3.org/mp3-convert/)
