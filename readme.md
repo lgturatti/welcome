@@ -12,6 +12,7 @@ Last update: October 30, 2024
 
 ## Articles
 <br>[Do not use secrets in environment variables and here's how to do it better](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
+<br>[Generation Breakdown](https://www.usatoday.com/story/graphics/2024/10/08/generation-names-years-explained/74701974007/) Find your generation
 <br>[How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 
 ## Coding Corner - tips & tricks
