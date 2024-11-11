@@ -8,7 +8,7 @@ While this is not ready, use your browser's search function to find the words or
 
 Oh! And don't forget to give a star if this content was useful to you. Thank you for your visit.
 
-Last update: November 08, 2024
+Last update: November 11, 2024
 
 ## Articles
 [5 Lesser-Known Data Transformation Techniques for Better Analysis (Python)](https://www.kdnuggets.com/5-lesser-known-data-transformation-techniques-for-better-analysis)
@@ -16,6 +16,8 @@ Last update: November 08, 2024
 <br>[AI: AI's Long-Term Impact on Data Engineering Roles](https://dagster.io/blog/ai-and-data-engineering-roles)
 <br>[AI: Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2)
 <br>[AI: The Perfect Prompt: A Prompt Engineering Cheat Sheet](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba)
+<br>[Como fazer uma apresentação impecável apenas com o ChatGPT](https://forbes.com.br/forbes-tech/2024/11/como-fazer-uma-apresentacao-impecavel-apenas-com-o-chatgpt)
+<br>[Como identificar se um texto foi escrito por Inteligência Artificial](https://forbes.com.br/forbes-tech/2024/11/como-identificar-se-um-texto-foi-escrito-por-inteligencia-artificial)
 <br>[Do not use secrets in environment variables and here's how to do it better](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
 <br>[Generation Breakdown](https://www.usatoday.com/story/graphics/2024/10/08/generation-names-years-explained/74701974007/) Find your generation
 <br>[How can you be sure that Ethical Hackers are TRULY Ethical?](https://www.linkedin.com/comm/pulse/how-can-you-sure-ethical-hackers-truly-the-cyber-security-hub-mep7e)
@@ -66,6 +68,7 @@ Last update: November 08, 2024
 <br>[DEBUG: 67 Weird tricks your browser doesn't want you to know](https://alan.norbauer.com/articles/browser-debugging-tricks)
 <br>[DETRAN: Transferência de documentos online](https://www.transferenciadigital.detran.sp.gov.br)
 <br>[Ferramenta pra baixar conteúdos do Instagram](https://snapinsta.app/pt)
+<br>[IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
 <br>[Moshi IA: voice chat in English](https://moshi.chat/?queue_id=talktomoshi)
 <br>[One: a new React framework for web and native, built on Vite](https://onestack.dev)
 <br>[Pinggy: Public URLs for Localhost, without downloading any binary](https://pinggy.io)
