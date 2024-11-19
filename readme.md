@@ -8,16 +8,18 @@ While this is not ready, use your browser's search function to find the words or
 
 Oh! And don't forget to give a star if this content was useful to you. Thank you for your visit.
 
-Last update: November 11, 2024
+Last update: November 19, 2024
 
 ## Articles
 [5 Lesser-Known Data Transformation Techniques for Better Analysis (Python)](https://www.kdnuggets.com/5-lesser-known-data-transformation-techniques-for-better-analysis)
 <br>[AI: A brief history of Notion’s data catalog](https://www.notion.so/blog/a-brief-history-of-notions-data-catalog)
 <br>[AI: AI's Long-Term Impact on Data Engineering Roles](https://dagster.io/blog/ai-and-data-engineering-roles)
 <br>[AI: Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2)
+<br>[AI: It makes tech debt more expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
 <br>[AI: The Perfect Prompt: A Prompt Engineering Cheat Sheet](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba)
 <br>[Como fazer uma apresentação impecável apenas com o ChatGPT](https://forbes.com.br/forbes-tech/2024/11/como-fazer-uma-apresentacao-impecavel-apenas-com-o-chatgpt)
 <br>[Como identificar se um texto foi escrito por Inteligência Artificial](https://forbes.com.br/forbes-tech/2024/11/como-identificar-se-um-texto-foi-escrito-por-inteligencia-artificial)
+<br>[Discover the 5 Best Automation Tools for Bug Bounty Hunters](https://www.linkedin.com/pulse/discover-5-best-automation-tools-bug-bounty-hunters-qxghc/)
 <br>[Do not use secrets in environment variables and here's how to do it better](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
 <br>[Generation Breakdown](https://www.usatoday.com/story/graphics/2024/10/08/generation-names-years-explained/74701974007/) Find your generation
 <br>[How can you be sure that Ethical Hackers are TRULY Ethical?](https://www.linkedin.com/comm/pulse/how-can-you-sure-ethical-hackers-truly-the-cyber-security-hub-mep7e)
@@ -41,6 +43,7 @@ Last update: November 11, 2024
 ## GitHub / GitLab Projects
 [DocLing: analisa documentos e os exporta para o formato desejado com facilidade e rapidez (Python)](https://github.com/DS4SD/docling)
 <br>[Flatcar: Linux distribution for running container at scale with low maintenance](https://github.com/flatcar/Flatcar)
+<br>[HyperDX: Quickly figure out why production is broken](https://github.com/hyperdxio/hyperdx/tree/v2)
 <br>[INK: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
 <br>[IscariotSuite: a collection of tools to enhance and augment trusted open-source](https://gitlab.com/badsectorlabs/iscariot-suite)
 <br>[MemReduct: Lightweight real-time memory management application to monitor and clean system memory on your Windows](https://github.com/henrypp/memreduct)
