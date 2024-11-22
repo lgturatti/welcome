@@ -8,7 +8,7 @@ While this is not ready, use your browser's search function to find the words or
 
 Oh! And don't forget to give a star if this content was useful to you. Thank you for your visit.
 
-Last update: November 19, 2024
+Last update: November 22, 2024
 
 ## Articles
 [5 Lesser-Known Data Transformation Techniques for Better Analysis (Python)](https://www.kdnuggets.com/5-lesser-known-data-transformation-techniques-for-better-analysis)
@@ -21,6 +21,7 @@ Last update: November 19, 2024
 <br>[Como identificar se um texto foi escrito por Inteligência Artificial](https://forbes.com.br/forbes-tech/2024/11/como-identificar-se-um-texto-foi-escrito-por-inteligencia-artificial)
 <br>[Discover the 5 Best Automation Tools for Bug Bounty Hunters](https://www.linkedin.com/pulse/discover-5-best-automation-tools-bug-bounty-hunters-qxghc/)
 <br>[Do not use secrets in environment variables and here's how to do it better](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
+<br>[Fixed Header + Sticky Footer with Dynamic height](https://medium.com/@DivyanshBatham/fixed-header-sticky-footer-with-dynamic-height-947f6669b981)
 <br>[Generation Breakdown](https://www.usatoday.com/story/graphics/2024/10/08/generation-names-years-explained/74701974007/) Find your generation
 <br>[How can you be sure that Ethical Hackers are TRULY Ethical?](https://www.linkedin.com/comm/pulse/how-can-you-sure-ethical-hackers-truly-the-cyber-security-hub-mep7e)
 <br>[How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
@@ -29,7 +30,6 @@ Last update: November 19, 2024
 
 ## Coding Corner - tips & tricks
 [Atualização de tudo no Windows 11 com apenas um comando](https://www.techtudo.com.br/dicas-e-tutoriais/2024/10/como-atualizar-todos-os-aplicativos-do-windows-com-apenas-um-comando-edsoftwares.ghtml)
-<br>[Video: Dica sobre UI/UX design, relacionadas a cores com luz e sombra](https://youtube.com/shorts/8_mq15b7CeI?si=_X1fiBpHpLsLiML3)
 <br>[XCode: Warning related to team ID - how to setup it](https://stackoverflow.com/questions/56616238/warning-for-xcode-capabilities-for-project-may-not-function-correctly-because)
 
 ## Documentation
@@ -62,7 +62,6 @@ Last update: November 19, 2024
 ## Security
 [Parrot Security Linux](https://parrotsec.org)
 <br>[ShadowServer Dashboard](https://dashboard.shadowserver.org/#web-cves)
-<br>[Video: Perigos do KMSpico](https://m.youtube.com/watch?v=sEU1CfOV-LA)
 
 ## Tools
 [AIDE: The open-source AI-native IDE](https://aide.dev)
@@ -83,3 +82,7 @@ Last update: November 19, 2024
 <br>\[Tool\] [Convert YouTube link to mp3 or mp4 file](https://youtube-to-mp3.org/mp3-convert/)
 <br>[Blog V8 bits](https://v8bits.blogspot.com/)
 
+## Videos
+[Dica sobre UI/UX design, relacionadas a cores com luz e sombra](https://youtube.com/shorts/8_mq15b7CeI?si=_X1fiBpHpLsLiML3)
+<br>[Git Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=CvUiKWv2-C0)
+<br>[Perigos do KMSpico](https://m.youtube.com/watch?v=sEU1CfOV-LA)
