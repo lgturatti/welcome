@@ -8,7 +8,7 @@ While this is not ready, use your browser's search function to find the words or
 
 Oh! And don't forget to give a star if this content was useful to you. Thank you for your visit.
 
-Last update: November 28, 2024
+Last update: November 29, 2024
 
 ## Articles
 [5 Lesser-Known Data Transformation Techniques for Better Analysis (Python)](https://www.kdnuggets.com/5-lesser-known-data-transformation-techniques-for-better-analysis)
@@ -19,16 +19,20 @@ Last update: November 28, 2024
 <br>[AI: The Perfect Prompt: A Prompt Engineering Cheat Sheet](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba)
 <br>[Automate Analysis of Common Attack Vectors with a Malware Sandbox with ANY.RUN](https://www.linkedin.com/pulse/automate-analysis-common-attack-vectors-malware-sandbox-j5s4c/)
 <br>[Benchmark test with code sample for one billion nested loop iterations](https://benjdd.com/languages/)
+<br>[Coisas sobre Postgres que eu queria ter aprendido antes](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 <br>[Como fazer uma apresentação impecável apenas com o ChatGPT](https://forbes.com.br/forbes-tech/2024/11/como-fazer-uma-apresentacao-impecavel-apenas-com-o-chatgpt)
 <br>[Como identificar se um texto foi escrito por Inteligência Artificial](https://forbes.com.br/forbes-tech/2024/11/como-identificar-se-um-texto-foi-escrito-por-inteligencia-artificial)
 <br>[Discover the 5 Best Automation Tools for Bug Bounty Hunters](https://www.linkedin.com/pulse/discover-5-best-automation-tools-bug-bounty-hunters-qxghc/)
 <br>[Do not use secrets in environment variables and here's how to do it better](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
+<br>[Explorando diretivas customizadas no GraphQL](https://medium.com/profusion-engineering/explorando-diretivas-customizadas-no-graphql-d7830eb675e4)
 <br>[Fixed Header + Sticky Footer with Dynamic height](https://medium.com/@DivyanshBatham/fixed-header-sticky-footer-with-dynamic-height-947f6669b981)
 <br>[Generation Breakdown](https://www.usatoday.com/story/graphics/2024/10/08/generation-names-years-explained/74701974007/) Find your generation
 <br>[How can you be sure that Ethical Hackers are TRULY Ethical?](https://www.linkedin.com/comm/pulse/how-can-you-sure-ethical-hackers-truly-the-cyber-security-hub-mep7e)
 <br>[How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 <br>[Otimização de APIs em Produção: Usando FastAPI e Gunicorn](https://medium.com/data-hackers/otimiza%C3%A7%C3%A3o-de-apis-em-produ%C3%A7%C3%A3o-usando-fastapi-e-gunicorn-3eec9bd24ef4)
 <br>[SEC: Google Dorks - How Hackers Leverage Search Engines for Exploits](https://www.linkedin.com/comm/pulse/google-dorks-how-hackers-leverage-search-engines-exploits-nwlgc)
+<br>[SEC: MITRE Reveals 25 Most Dangerous Software Vulnerabilities](https://www.linkedin.com/comm/pulse/mitre-reveals-25-most-dangerous-software-vulnerabilities-sqb8e)
+<br>[Top 6 Malware Persistence Mechanisms Used by Hackers: A Detailed Guide](https://www.linkedin.com/comm/pulse/top-6-malware-persistence-mechanisms-used-hackers-detailed-ey45c)
 
 ## Coding Corner - tips & tricks
 [Atualização de tudo no Windows 11 com apenas um comando](https://www.techtudo.com.br/dicas-e-tutoriais/2024/10/como-atualizar-todos-os-aplicativos-do-windows-com-apenas-um-comando-edsoftwares.ghtml)
@@ -74,6 +78,7 @@ Last update: November 28, 2024
 <br>[Ferramenta pra baixar conteúdos do Instagram](https://snapinsta.app/pt)
 <br>[IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
 <br>[Moshi IA: voice chat in English](https://moshi.chat/?queue_id=talktomoshi)
+<br>[OCR: Document to Markdown com IA - OCR MUITO preciso](https://llamaocr.com)
 <br>[One: a new React framework for web and native, built on Vite](https://onestack.dev)
 <br>[Pinggy: Public URLs for Localhost, without downloading any binary](https://pinggy.io)
 <br>[VSCode Extension: Web Visual Editor - debug made easy](https://marketplace.visualstudio.com/items?itemName=Urin.vscode-web-visual-editor)
