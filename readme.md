@@ -19,6 +19,7 @@ Last update: November 29, 2024
 <br>[AI: The Perfect Prompt: A Prompt Engineering Cheat Sheet](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba)
 <br>[Automate Analysis of Common Attack Vectors with a Malware Sandbox with ANY.RUN](https://www.linkedin.com/pulse/automate-analysis-common-attack-vectors-malware-sandbox-j5s4c/)
 <br>[Benchmark test with code sample for one billion nested loop iterations](https://benjdd.com/languages/)
+<br>[Caminho dourado para ser um desenvolvedor internacional (e ganhando bem!)](https://igor.marcossi.com/caminho-dourado)
 <br>[Coisas sobre Postgres que eu queria ter aprendido antes](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 <br>[Como fazer uma apresentação impecável apenas com o ChatGPT](https://forbes.com.br/forbes-tech/2024/11/como-fazer-uma-apresentacao-impecavel-apenas-com-o-chatgpt)
 <br>[Como identificar se um texto foi escrito por Inteligência Artificial](https://forbes.com.br/forbes-tech/2024/11/como-identificar-se-um-texto-foi-escrito-por-inteligencia-artificial)
