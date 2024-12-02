@@ -17,6 +17,7 @@ Last update: November 29, 2024
 <br>[AI: Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2)
 <br>[AI: It makes tech debt more expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
 <br>[AI: The Perfect Prompt: A Prompt Engineering Cheat Sheet](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba)
+<br>[AI: UK New Laboratory for AI Security Research (LASR)](https://www.linkedin.com/comm/pulse/uk-announces-new-laboratory-ai-security-research-ntvbe)
 <br>[Automate Analysis of Common Attack Vectors with a Malware Sandbox with ANY.RUN](https://www.linkedin.com/pulse/automate-analysis-common-attack-vectors-malware-sandbox-j5s4c/)
 <br>[Benchmark test with code sample for one billion nested loop iterations](https://benjdd.com/languages/)
 <br>[Caminho dourado para ser um desenvolvedor internacional (e ganhando bem!)](https://igor.marcossi.com/caminho-dourado)
@@ -33,6 +34,7 @@ Last update: November 29, 2024
 <br>[Otimização de APIs em Produção: Usando FastAPI e Gunicorn](https://medium.com/data-hackers/otimiza%C3%A7%C3%A3o-de-apis-em-produ%C3%A7%C3%A3o-usando-fastapi-e-gunicorn-3eec9bd24ef4)
 <br>[SEC: Google Dorks - How Hackers Leverage Search Engines for Exploits](https://www.linkedin.com/comm/pulse/google-dorks-how-hackers-leverage-search-engines-exploits-nwlgc)
 <br>[SEC: MITRE Reveals 25 Most Dangerous Software Vulnerabilities](https://www.linkedin.com/comm/pulse/mitre-reveals-25-most-dangerous-software-vulnerabilities-sqb8e)
+<br>[SEC: Why the MITRE ATT&CK Evaluation Is Essential for Security Leaders](https://www.linkedin.com/comm/pulse/why-mitre-attck-evaluation-essential-security-leaders-eqq6c)
 <br>[Top 6 Malware Persistence Mechanisms Used by Hackers: A Detailed Guide](https://www.linkedin.com/comm/pulse/top-6-malware-persistence-mechanisms-used-hackers-detailed-ey45c)
 
 ## Coding Corner - tips & tricks
