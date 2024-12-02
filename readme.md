@@ -8,8 +8,6 @@ While this is not ready, use your browser's search function to find the words or
 
 Oh! And don't forget to give a star if this content was useful to you. Thank you for your visit.
 
-Last update: November 29, 2024
-
 ## Articles
 [5 Lesser-Known Data Transformation Techniques for Better Analysis (Python)](https://www.kdnuggets.com/5-lesser-known-data-transformation-techniques-for-better-analysis)
 <br>[AI: A brief history of Notion’s data catalog](https://www.notion.so/blog/a-brief-history-of-notions-data-catalog)
