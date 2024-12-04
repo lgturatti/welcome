@@ -77,11 +77,13 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[DEBUG: 67 Weird tricks your browser doesn't want you to know](https://alan.norbauer.com/articles/browser-debugging-tricks)
 <br>[DETRAN: Transferência de documentos online](https://www.transferenciadigital.detran.sp.gov.br)
 <br>[Ferramenta pra baixar conteúdos do Instagram](https://snapinsta.app/pt)
+<br>[GitHub Student Developer Pack](https://education.github.com/pack) Gratuito
 <br>[IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
 <br>[Moshi IA: voice chat in English](https://moshi.chat/?queue_id=talktomoshi)
 <br>[OCR: Document to Markdown com IA - OCR MUITO preciso](https://llamaocr.com)
 <br>[One: a new React framework for web and native, built on Vite](https://onestack.dev)
 <br>[Pinggy: Public URLs for Localhost, without downloading any binary](https://pinggy.io)
+<br>[Verificador de Currículo/Resume Checker para interpretação em sistemas com IA](https://www.resumego.net/resume-checker/) Gratuito
 <br>[VSCode Extension: Web Visual Editor - debug made easy](https://marketplace.visualstudio.com/items?itemName=Urin.vscode-web-visual-editor)
 
 ## Unsorted links
@@ -93,4 +95,6 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 ## Videos
 [Dica sobre UI/UX design, relacionadas a cores com luz e sombra](https://youtube.com/shorts/8_mq15b7CeI?si=_X1fiBpHpLsLiML3)
 <br>[Git Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=CvUiKWv2-C0)
-<br>[Perigos do KMSpico](https://m.youtube.com/watch?v=sEU1CfOV-LA)
+<br>[Procrastinação e foco](https://www.linkedin.com/posts/teresa-macedo_procrastinaaexaeto-propaejsito-bemestar-activity-7264253553995640832-9l_N) Teste pessoal
+<br>[SEC: Perigos do KMSpico](https://m.youtube.com/watch?v=sEU1CfOV-LA)
+<br>[SEC: Why I don't use a SIM Card (and neither should you)](https://www.youtube.com/watch?v=4Dei2buz1X0)
