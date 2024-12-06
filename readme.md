@@ -22,17 +22,23 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Coisas sobre Postgres que eu queria ter aprendido antes](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 <br>[Como fazer uma apresentação impecável apenas com o ChatGPT](https://forbes.com.br/forbes-tech/2024/11/como-fazer-uma-apresentacao-impecavel-apenas-com-o-chatgpt)
 <br>[Como identificar se um texto foi escrito por Inteligência Artificial](https://forbes.com.br/forbes-tech/2024/11/como-identificar-se-um-texto-foi-escrito-por-inteligencia-artificial)
+<br>[Data engineering: Apache Iceberg Won the Future](https://blog.det.life/apache-iceberg-won-the-future-whats-next-for-2025-731635bfcb7a)
 <br>[Discover the 5 Best Automation Tools for Bug Bounty Hunters](https://www.linkedin.com/pulse/discover-5-best-automation-tools-bug-bounty-hunters-qxghc/)
 <br>[Do not use secrets in environment variables and here's how to do it better](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
 <br>[Explorando diretivas customizadas no GraphQL](https://medium.com/profusion-engineering/explorando-diretivas-customizadas-no-graphql-d7830eb675e4)
+<br>[Firecrawl: How to Scrape Entire Websites With a Single Command in Python](https://medium.datadriveninvestor.com/firecrawl-how-to-scrape-entire-websites-with-a-single-command-in-python-5a8940183c91)
 <br>[Fixed Header + Sticky Footer with Dynamic height](https://medium.com/@DivyanshBatham/fixed-header-sticky-footer-with-dynamic-height-947f6669b981)
 <br>[Generation Breakdown](https://www.usatoday.com/story/graphics/2024/10/08/generation-names-years-explained/74701974007/) Find your generation
 <br>[How can you be sure that Ethical Hackers are TRULY Ethical?](https://www.linkedin.com/comm/pulse/how-can-you-sure-ethical-hackers-truly-the-cyber-security-hub-mep7e)
 <br>[How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
+<br>[Log Monitoring & 2025 Compliance: Undeniable Conjunction](https://www.linkedin.com/comm/pulse/log-monitoring-2025-compliance-undeniable-conjunction-gb5me)
+<br>[Master Your First 90 Days as CISO: A 15-Step Framework for Success](https://www.linkedin.com/comm/pulse/master-your-first-90-days-ciso-15-step-framework-dpt2e)
 <br>[Otimização de APIs em Produção: Usando FastAPI e Gunicorn](https://medium.com/data-hackers/otimiza%C3%A7%C3%A3o-de-apis-em-produ%C3%A7%C3%A3o-usando-fastapi-e-gunicorn-3eec9bd24ef4)
 <br>[SEC: Google Dorks - How Hackers Leverage Search Engines for Exploits](https://www.linkedin.com/comm/pulse/google-dorks-how-hackers-leverage-search-engines-exploits-nwlgc)
 <br>[SEC: MITRE Reveals 25 Most Dangerous Software Vulnerabilities](https://www.linkedin.com/comm/pulse/mitre-reveals-25-most-dangerous-software-vulnerabilities-sqb8e)
+<br>[SEC: Portable Hacking Lab - Control The Smallest Kali Linux With a Smartphone](https://www.mobile-hacker.com/2024/10/04/portable-hacking-lab-control-the-smallest-kali-linux-with-a-smartphone/)
 <br>[SEC: Why the MITRE ATT&CK Evaluation Is Essential for Security Leaders](https://www.linkedin.com/comm/pulse/why-mitre-attck-evaluation-essential-security-leaders-eqq6c)
+<br>[Software Testing 101: A Beginner's Guide to Types and Techniques](https://www.linkedin.com/comm/pulse/software-testing-101-beginners-guide-types-techniques-wgphc)
 <br>[Top 6 Malware Persistence Mechanisms Used by Hackers: A Detailed Guide](https://www.linkedin.com/comm/pulse/top-6-malware-persistence-mechanisms-used-hackers-detailed-ey45c)
 
 ## Coding Corner - tips & tricks
@@ -44,7 +50,8 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[React Navigation 7.0](https://reactnavigation.org/blog/2024/11/06/react-navigation-7.0/)
 
 ## Event Materials
-<br>[LambdaConf'24: Exploring what we can do to make our software better](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
+[LambdaConf'24: Exploring what we can do to make our software better](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
+<br>[RocketSeat: NLW Pocket Mobile](https://efficient-sloth-d85.notion.site/NLW-POCKET-Mobile-Guia-do-evento-08846d7bb67b462cad5959836f473474)
 <br>[RocketSeat: PHP na prática](https://efficient-sloth-d85.notion.site/PHP-Na-pr-tica-1a9130cb4e424706a03435bdb36e4205)
 
 ## GitHub / GitLab Projects
@@ -54,6 +61,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[INK: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
 <br>[IscariotSuite: a collection of tools to enhance and augment trusted open-source](https://gitlab.com/badsectorlabs/iscariot-suite)
 <br>[MemReduct: Lightweight real-time memory management application to monitor and clean system memory on your Windows](https://github.com/henrypp/memreduct)
+<br>[OpenWRT: Transforme seu TVBox com Android antigo em um roteador Linux](https://github.com/ophub/amlogic-s9xxx-openwrt)
 <br>[SEC: API Security Vulnerability Scanner](https://github.com/cerberauth/vulnapi)
 <br>[SEC: Vulnerable apps - fork com mais de 100 apps para estudo de segurança](https://github.com/vulnerable-apps)
 <br>[Skimpy: light weight summary statistics on console (Python)](https://github.com/aeturrell/skimpy)
@@ -71,18 +79,25 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[ShadowServer Dashboard](https://dashboard.shadowserver.org/#web-cves)
 
 ## Tools
-[AIDE: The open-source AI-native IDE](https://aide.dev)
+[Acesso remoto gratuito no navegador - openSource](https://www.dwservice.net)
+<br>[AIDE: The open-source AI-native IDE](https://aide.dev)
 <br>[Cloud Guardrails: Quick reference to Cloud Best Practices](https://www.cloudguardrails.com)
 <br>[CSV SQL Tool: Run queries directly in your browser](https://csvsqltool.com)
 <br>[DEBUG: 67 Weird tricks your browser doesn't want you to know](https://alan.norbauer.com/articles/browser-debugging-tricks)
 <br>[DETRAN: Transferência de documentos online](https://www.transferenciadigital.detran.sp.gov.br)
 <br>[Ferramenta pra baixar conteúdos do Instagram](https://snapinsta.app/pt)
+<br>[FrontendMasters: Your path to senior developer and beyond](https://frontendmasters.com) Gratuito
 <br>[GitHub Student Developer Pack](https://education.github.com/pack) Gratuito
+<br>[GRUB: tunning/ajustes para deixar sua tela de inicialização incrível](https://www.edivaldobrito.com.br/mudar-o-visual-do-grub-com-o-tema-vimix/)
+<br>[IA: Claude AI](https://claude.ai)
+<br>[IA: Inteligência artificial brasileira](https://www.maritaca.ai)
+<br>[IA: Perplexity: pesquise e descubra com IA](https://www.perplexity.ai)
 <br>[IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
 <br>[Moshi IA: voice chat in English](https://moshi.chat/?queue_id=talktomoshi)
 <br>[OCR: Document to Markdown com IA - OCR MUITO preciso](https://llamaocr.com)
 <br>[One: a new React framework for web and native, built on Vite](https://onestack.dev)
 <br>[Pinggy: Public URLs for Localhost, without downloading any binary](https://pinggy.io)
+<br>[Software Testing 101: A Beginner's Guide to Types and Techniques](https://www.linkedin.com/comm/pulse/software-testing-101-beginners-guide-types-techniques-wgphc) Gratuito
 <br>[Verificador de Currículo/Resume Checker para interpretação em sistemas com IA](https://www.resumego.net/resume-checker/) Gratuito
 <br>[VSCode Extension: Web Visual Editor - debug made easy](https://marketplace.visualstudio.com/items?itemName=Urin.vscode-web-visual-editor)
 
@@ -93,8 +108,11 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Blog V8 bits](https://v8bits.blogspot.com/)
 
 ## Videos
-[Dica sobre UI/UX design, relacionadas a cores com luz e sombra](https://youtube.com/shorts/8_mq15b7CeI?si=_X1fiBpHpLsLiML3)
+[Carreira: 11 Conselhos raros de Sênior para Júnior (que não te ensinam)](https://m.youtube.com/watch?v=rTcS0raY4F0)
+<br>[Dica sobre UI/UX design, relacionadas a cores com luz e sombra](https://youtube.com/shorts/8_mq15b7CeI?si=_X1fiBpHpLsLiML3)
+<br>[Erick wender: Otimizando e Monitorando apps JavaScript](https://m.youtube.com/watch?v=Q8omqWTT3Yk)
 <br>[Git Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=CvUiKWv2-C0)
+<br>[Make Brazil Zuera Again: liberdade de expressão](https://youtube.com/shorts/dFZSbuMHMmE?si=AihQrneIi3jV-wGe)
 <br>[Procrastinação e foco](https://www.linkedin.com/posts/teresa-macedo_procrastinaaexaeto-propaejsito-bemestar-activity-7264253553995640832-9l_N) Teste pessoal
 <br>[SEC: Perigos do KMSpico](https://m.youtube.com/watch?v=sEU1CfOV-LA)
 <br>[SEC: Why I don't use a SIM Card (and neither should you)](https://www.youtube.com/watch?v=4Dei2buz1X0)
