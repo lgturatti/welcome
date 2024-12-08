@@ -50,7 +50,8 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[React Navigation 7.0](https://reactnavigation.org/blog/2024/11/06/react-navigation-7.0/)
 
 ## Event Materials
-[LambdaConf'24: Exploring what we can do to make our software better](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
+[Imersão Dev Back-End - Guia de Mergulho](https://grupoalura.notion.site/imersao-dev-back-end-guia-de-mergulho)
+<br>[LambdaConf'24: Exploring what we can do to make our software better](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
 <br>[RocketSeat: NLW Pocket Mobile](https://efficient-sloth-d85.notion.site/NLW-POCKET-Mobile-Guia-do-evento-08846d7bb67b462cad5959836f473474)
 <br>[RocketSeat: PHP na prática](https://efficient-sloth-d85.notion.site/PHP-Na-pr-tica-1a9130cb4e424706a03435bdb36e4205)
 
@@ -88,6 +89,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Ferramenta pra baixar conteúdos do Instagram](https://snapinsta.app/pt)
 <br>[FrontendMasters: Your path to senior developer and beyond](https://frontendmasters.com) Gratuito
 <br>[GitHub Student Developer Pack](https://education.github.com/pack) Gratuito
+<br>[GO Playground](https://go.dev/play/) Teste seu código online
 <br>[GRUB: tunning/ajustes para deixar sua tela de inicialização incrível](https://www.edivaldobrito.com.br/mudar-o-visual-do-grub-com-o-tema-vimix/)
 <br>[IA: Claude AI](https://claude.ai)
 <br>[IA: Inteligência artificial brasileira](https://www.maritaca.ai)
