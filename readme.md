@@ -54,6 +54,9 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 [Imersão Dev Back-End - Guia de Mergulho](https://grupoalura.notion.site/imersao-dev-back-end-guia-de-mergulho)
 <br>[LambdaConf'24: Exploring what we can do to make our software better](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
 <br>[RocketSeat: NLW Pocket Mobile](https://efficient-sloth-d85.notion.site/NLW-POCKET-Mobile-Guia-do-evento-08846d7bb67b462cad5959836f473474)
+<br>[RocketSeat: NLW Pocket Mobile - Kotlin](https://docs-rocketseat.notion.site/Configura-o-de-ambiente-Kotlin-c923ba2a40984cf9aa5aad7f9db70ccd)
+<br>[RocketSeat: NLW Pocket Mobile - React Native](https://docs-rocketseat.notion.site/Configura-o-de-ambiente-React-Native-149395da577080fcad5df7ef11473819)
+<br>[RocketSeat: NLW Pocket Mobile - Swift](https://docs-rocketseat.notion.site/Configura-o-de-ambiente-Swift-149395da57708058bcc3d3fc6926be82)
 <br>[RocketSeat: PHP na prática](https://efficient-sloth-d85.notion.site/PHP-Na-pr-tica-1a9130cb4e424706a03435bdb36e4205)
 
 ## GitHub / GitLab Projects
