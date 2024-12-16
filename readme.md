@@ -35,6 +35,8 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Log Monitoring & 2025 Compliance: Undeniable Conjunction](https://www.linkedin.com/comm/pulse/log-monitoring-2025-compliance-undeniable-conjunction-gb5me)
 <br>[Master Your First 90 Days as CISO: A 15-Step Framework for Success](https://www.linkedin.com/comm/pulse/master-your-first-90-days-ciso-15-step-framework-dpt2e)
 <br>[Otimização de APIs em Produção: Usando FastAPI e Gunicorn](https://medium.com/data-hackers/otimiza%C3%A7%C3%A3o-de-apis-em-produ%C3%A7%C3%A3o-usando-fastapi-e-gunicorn-3eec9bd24ef4)
+<br>[React 19 Stable Release: What’s New and How to Upgrade](https://dev.to/gladiatorsbattle/react-19-stable-release-whats-new-and-how-to-upgrade-299d)
+<br>[SEC: From Traditional Pentesting to PTaaS: What Comes Next?](https://www.linkedin.com/comm/pulse/from-traditional-pentesting-ptaas-what-comes-next-qytne)
 <br>[SEC: Google Dorks - How Hackers Leverage Search Engines for Exploits](https://www.linkedin.com/comm/pulse/google-dorks-how-hackers-leverage-search-engines-exploits-nwlgc)
 <br>[SEC: MITRE Reveals 25 Most Dangerous Software Vulnerabilities](https://www.linkedin.com/comm/pulse/mitre-reveals-25-most-dangerous-software-vulnerabilities-sqb8e)
 <br>[SEC: Portable Hacking Lab - Control The Smallest Kali Linux With a Smartphone](https://www.mobile-hacker.com/2024/10/04/portable-hacking-lab-control-the-smallest-kali-linux-with-a-smartphone/)
@@ -60,13 +62,19 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[RocketSeat: PHP na prática](https://efficient-sloth-d85.notion.site/PHP-Na-pr-tica-1a9130cb4e424706a03435bdb36e4205)
 
 ## GitHub / GitLab Projects
-[DocLing: analisa documentos e os exporta para o formato desejado com facilidade e rapidez (Python)](https://github.com/DS4SD/docling)
+[ARMbian: Linux em processadores ARM](https://github.com/ophub/amlogic-s9xxx-armbian)
+<br>[DocLing: analisa documentos e os exporta para o formato desejado com facilidade e rapidez (Python)](https://github.com/DS4SD/docling)
 <br>[Flatcar: Linux distribution for running container at scale with low maintenance](https://github.com/flatcar/Flatcar)
 <br>[HyperDX: Quickly figure out why production is broken](https://github.com/hyperdxio/hyperdx/tree/v2)
 <br>[INK: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
 <br>[IscariotSuite: a collection of tools to enhance and augment trusted open-source](https://gitlab.com/badsectorlabs/iscariot-suite)
 <br>[MemReduct: Lightweight real-time memory management application to monitor and clean system memory on your Windows](https://github.com/henrypp/memreduct)
+<br>[OpenRecall: Windows Recall Open Source](https://github.com/openrecall/openrecall)
 <br>[OpenWRT: Transforme seu TVBox com Android antigo em um roteador Linux](https://github.com/ophub/amlogic-s9xxx-openwrt)
+<br>[REMBG: Remove o fundo de imagens](https://github.com/danielgatis/rembg)
+<br>[SAM: Remove o fundo de imagens](https://github.com/mrsyee/sam-remove-background)
+<br>[SCRCPY: Screen Copy - visualize a tela do Android no computador](https://github.com/Genymobile/scrcpy)
+<br>[SCRCPY-PLUS: GUI para scrcpy e funções do ADB](https://github.com/frontesque/scrcpy-plus)
 <br>[SEC: API Security Vulnerability Scanner](https://github.com/cerberauth/vulnapi)
 <br>[SEC: Vulnerable apps - fork com mais de 100 apps para estudo de segurança](https://github.com/vulnerable-apps)
 <br>[Skimpy: light weight summary statistics on console (Python)](https://github.com/aeturrell/skimpy)
@@ -86,11 +94,13 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 ## Tools
 [Acesso remoto gratuito no navegador - openSource](https://www.dwservice.net)
 <br>[AIDE: The open-source AI-native IDE](https://aide.dev)
+<br>[Chrome browser ESP32 Installer](https://flasher.pdxlocs.com)
 <br>[Cloud Guardrails: Quick reference to Cloud Best Practices](https://www.cloudguardrails.com)
 <br>[CSV SQL Tool: Run queries directly in your browser](https://csvsqltool.com)
 <br>[DEBUG: 67 Weird tricks your browser doesn't want you to know](https://alan.norbauer.com/articles/browser-debugging-tricks)
 <br>[DETRAN: Transferência de documentos online](https://www.transferenciadigital.detran.sp.gov.br)
 <br>[Ferramenta pra baixar conteúdos do Instagram](https://snapinsta.app/pt)
+<br>[Ferramentas para manuseio de arquivos PDF](https://www.ilovepdf.com)
 <br>[FrontendMasters: Your path to senior developer and beyond](https://frontendmasters.com) Gratuito
 <br>[GitHub Student Developer Pack](https://education.github.com/pack) Gratuito
 <br>[GO Playground](https://go.dev/play/) Teste seu código online
@@ -104,9 +114,11 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[OCR: Document to Markdown com IA - OCR MUITO preciso](https://llamaocr.com)
 <br>[One: a new React framework for web and native, built on Vite](https://onestack.dev)
 <br>[Pinggy: Public URLs for Localhost, without downloading any binary](https://pinggy.io)
+<br>[Pinterest Downloader](https://pinterestdownloader.com)
 <br>[Software Testing 101: A Beginner's Guide to Types and Techniques](https://www.linkedin.com/comm/pulse/software-testing-101-beginners-guide-types-techniques-wgphc) Gratuito
 <br>[Verificador de Currículo/Resume Checker para interpretação em sistemas com IA](https://www.resumego.net/resume-checker/) Gratuito
 <br>[VSCode Extension: Web Visual Editor - debug made easy](https://marketplace.visualstudio.com/items?itemName=Urin.vscode-web-visual-editor)
+<br>[Youtube Downloader](https://www.y2mate.com)
 
 ## Unsorted links
 [Example](http://www.example.com)
