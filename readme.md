@@ -55,11 +55,18 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 ## Event Materials
 [Imersão Dev Back-End - Guia de Mergulho](https://grupoalura.notion.site/imersao-dev-back-end-guia-de-mergulho)
 <br>[LambdaConf'24: Exploring what we can do to make our software better](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
+<br>[RocketSeat: Configuração de ambiente - React Native](https://docs-rocketseat.notion.site/Configura-o-de-ambiente-React-Native-149395da577080fcad5df7ef11473819)
 <br>[RocketSeat: NLW Pocket Mobile](https://efficient-sloth-d85.notion.site/NLW-POCKET-Mobile-Guia-do-evento-08846d7bb67b462cad5959836f473474)
 <br>[RocketSeat: NLW Pocket Mobile - Kotlin](https://docs-rocketseat.notion.site/Configura-o-de-ambiente-Kotlin-c923ba2a40984cf9aa5aad7f9db70ccd)
 <br>[RocketSeat: NLW Pocket Mobile - React Native](https://docs-rocketseat.notion.site/Configura-o-de-ambiente-React-Native-149395da577080fcad5df7ef11473819)
 <br>[RocketSeat: NLW Pocket Mobile - Swift](https://docs-rocketseat.notion.site/Configura-o-de-ambiente-Swift-149395da57708058bcc3d3fc6926be82)
 <br>[RocketSeat: PHP na prática](https://efficient-sloth-d85.notion.site/PHP-Na-pr-tica-1a9130cb4e424706a03435bdb36e4205)
+<br>[RocketSeat: START - 1. Lógica de programação](https://drive.google.com/file/d/1GUe56knQrj_nCaXA6yFuIZYYPesAFa3X/view)
+<br>[RocketSeat: START - 2. Hábitos de devs que buscam o próximo nível](https://efficient-sloth-d85.notion.site/7-H-bitos-de-devs-que-buscam-o-pr-ximo-n-vel-17a4ea0ed7874a059227e4f223b37d06)
+<br>[RocketSeat: START - 3. Como aprender e se organizar na programação](https://efficient-sloth-d85.notion.site/Guia-para-Aprender-a-Aprender-e-se-Organizar-na-Programa-o-em-2025-b8913dbe262e4a8780dc01ce93ea3b00)
+<br>[RocketSeat: START - 4. Dicas de organização de estudos](https://drive.google.com/file/d/1nSF9JIcqA70WxpknX5EoqoNtI2Rq8XJz/view)
+<br>[RocketSeat: START - 5. O que saber para se tornar programador](https://drive.google.com/file/d/1QCuEO-NcN5inxQdLsG-SUcOq1h9xpVZv/view)
+<br>[RocketSeat: START - 6. Guia de Design para programadores](https://efficient-sloth-d85.notion.site/Guia-de-Design-para-Programadores-Criando-interfaces-eficientes-e-otimizando-c-digos-ffb0b7100e4a403e827a8391c371e7a1)
 
 ## GitHub / GitLab Projects
 [ARMbian: Linux em processadores ARM](https://github.com/ophub/amlogic-s9xxx-armbian)
@@ -98,6 +105,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Cloud Guardrails: Quick reference to Cloud Best Practices](https://www.cloudguardrails.com)
 <br>[CSV SQL Tool: Run queries directly in your browser](https://csvsqltool.com)
 <br>[DEBUG: 67 Weird tricks your browser doesn't want you to know](https://alan.norbauer.com/articles/browser-debugging-tricks)
+<br>[DESIGN Dribbble: Explore o trabalho de designers talentosos para seu próximo projeto](https://dribbble.com)
 <br>[DETRAN: Transferência de documentos online](https://www.transferenciadigital.detran.sp.gov.br)
 <br>[Ferramenta pra baixar conteúdos do Instagram](https://snapinsta.app/pt)
 <br>[Ferramentas para manuseio de arquivos PDF](https://www.ilovepdf.com)
