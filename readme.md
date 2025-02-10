@@ -26,6 +26,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Data engineering: Apache Iceberg Won the Future](https://blog.det.life/apache-iceberg-won-the-future-whats-next-for-2025-731635bfcb7a)
 <br>[Discover the 5 Best Automation Tools for Bug Bounty Hunters](https://www.linkedin.com/pulse/discover-5-best-automation-tools-bug-bounty-hunters-qxghc/)
 <br>[Do not use secrets in environment variables and here's how to do it better](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
+<br>[Email obfuscation: O que funciona em 2025 para proteger seu endereço?](https://spencermortensen.com/articles/email-obfuscation/)
 <br>[Explorando diretivas customizadas no GraphQL](https://medium.com/profusion-engineering/explorando-diretivas-customizadas-no-graphql-d7830eb675e4)
 <br>[Firecrawl: How to Scrape Entire Websites With a Single Command in Python](https://medium.datadriveninvestor.com/firecrawl-how-to-scrape-entire-websites-with-a-single-command-in-python-5a8940183c91)
 <br>[Fixed Header + Sticky Footer with Dynamic height](https://medium.com/@DivyanshBatham/fixed-header-sticky-footer-with-dynamic-height-947f6669b981)
@@ -103,15 +104,19 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[AIDE: The open-source AI-native IDE](https://aide.dev)
 <br>[Chrome browser ESP32 Installer](https://flasher.pdxlocs.com)
 <br>[Cloud Guardrails: Quick reference to Cloud Best Practices](https://www.cloudguardrails.com)
+<br>[Criador de Flipbook Online com AI](https://fliphtml5.com)
 <br>[CSV SQL Tool: Run queries directly in your browser](https://csvsqltool.com)
 <br>[DEBUG: 67 Weird tricks your browser doesn't want you to know](https://alan.norbauer.com/articles/browser-debugging-tricks)
 <br>[DESIGN Dribbble: Explore o trabalho de designers talentosos para seu próximo projeto](https://dribbble.com)
 <br>[DETRAN: Transferência de documentos online](https://www.transferenciadigital.detran.sp.gov.br)
+<br>[Email obfuscation](https://www.albionresearch.com/tools/obfuscator)
 <br>[Ferramenta pra baixar conteúdos do Instagram](https://snapinsta.app/pt)
 <br>[Ferramentas para manuseio de arquivos PDF](https://www.ilovepdf.com)
 <br>[FrontendMasters: Your path to senior developer and beyond](https://frontendmasters.com) Gratuito
 <br>[GitHub Student Developer Pack](https://education.github.com/pack) Gratuito
 <br>[GO Playground](https://go.dev/play/) Teste seu código online
+<br>[Google Colab: Permite escrever e executar Python no navegador](https://colab.research.google.com)
+<br>[Google IDX: Ambiente de desenvolvimento online e/com banco de dados](https://idx.google.com)
 <br>[GRUB: tunning/ajustes para deixar sua tela de inicialização incrível](https://www.edivaldobrito.com.br/mudar-o-visual-do-grub-com-o-tema-vimix/)
 <br>[IA: Claude AI](https://claude.ai)
 <br>[IA: Inteligência artificial brasileira](https://www.maritaca.ai)
