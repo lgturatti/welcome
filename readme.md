@@ -79,6 +79,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[MemReduct: Lightweight real-time memory management application to monitor and clean system memory on your Windows](https://github.com/henrypp/memreduct)
 <br>[OpenRecall: Windows Recall Open Source](https://github.com/openrecall/openrecall)
 <br>[OpenWRT: Transforme seu TVBox com Android antigo em um roteador Linux](https://github.com/ophub/amlogic-s9xxx-openwrt)
+<br>[OSX PROMOX - Utilize o MacOS em qualquer desktop AMD ou Intel](https://github.com/luchina-gabriel/OSX-PROXMOX)
 <br>[REMBG: Remove o fundo de imagens](https://github.com/danielgatis/rembg)
 <br>[SAM: Remove o fundo de imagens](https://github.com/mrsyee/sam-remove-background)
 <br>[SCRCPY: Screen Copy - visualize a tela do Android no computador](https://github.com/Genymobile/scrcpy)
@@ -104,6 +105,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 
 ## Tools
 [Acesso remoto gratuito no navegador - openSource](https://www.dwservice.net)
+<br>[AI: Phind](https://www.phind.com)
 <br>[AIDE: The open-source AI-native IDE](https://aide.dev)
 <br>[Chrome browser ESP32 Installer](https://flasher.pdxlocs.com)
 <br>[Cloud Guardrails: Quick reference to Cloud Best Practices](https://www.cloudguardrails.com)
@@ -134,6 +136,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[One: a new React framework for web and native, built on Vite](https://onestack.dev)
 <br>[Pinggy: Public URLs for Localhost, without downloading any binary](https://pinggy.io)
 <br>[Pinterest Downloader](https://pinterestdownloader.com)
+<br>[SHAREM: framework de análise de shellcode com APIs e syscalls do Windows](https://github.com/Bw3ll/sharem)
 <br>[Software Testing 101: A Beginner's Guide to Types and Techniques](https://www.linkedin.com/comm/pulse/software-testing-101-beginners-guide-types-techniques-wgphc) Gratuito
 <br>[Verificador de Currículo/Resume Checker para interpretação em sistemas com IA](https://www.resumego.net/resume-checker/) Gratuito
 <br>[VSCode Extension: Web Visual Editor - debug made easy](https://marketplace.visualstudio.com/items?itemName=Urin.vscode-web-visual-editor)
@@ -141,10 +144,10 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Youtube Downloader](https://www.y2mate.com)
 
 ## Unsorted links
-[Example](http://www.example.com)
-<br>\[PodCast\] [A Bug Story - How Narrative Bias Creates Blind Spots](https://spec.fm/podcasts/developer-tea/167202)
-<br>\[Tool\] [Convert YouTube link to mp3 or mp4 file](https://youtube-to-mp3.org/mp3-convert/)
-<br>[Blog V8 bits](https://v8bits.blogspot.com/)
+[Blog V8 bits](https://v8bits.blogspot.com/)
+<br>[Internet Example website](http://www.example.com)
+<br>[PodCast: A Bug Story - How Narrative Bias Creates Blind Spots](https://spec.fm/podcasts/developer-tea/167202)
+<br>[Tool: Convert YouTube link to mp3 or mp4 file](https://youtube-to-mp3.org/mp3-convert/)
 
 ## Videos
 [Carreira: 11 Conselhos raros de Sênior para Júnior (que não te ensinam)](https://m.youtube.com/watch?v=rTcS0raY4F0)
