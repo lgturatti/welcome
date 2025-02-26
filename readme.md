@@ -96,6 +96,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 ## Linux
 [DistroWatch](https://distrowatch.com)
 <br>[Linux](https://www.linux.com)
+<br>[Linux: Pop!OS by System76 baseado em Debian/Ubuntu](https://pop.system76.com/)
 <br>[Linux Kernel @Unicamp LKCamp GitLab](https://lkcamp.gitlab.io/lkcamp_docs/)
 <br>[Personalização do Manjaro Linux com Omakub](https://www.akitaonrails.com/2024/10/30/omakub-pra-manjaro-e-archwsl)
 
@@ -105,6 +106,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 
 ## Tools
 [Acesso remoto gratuito no navegador - openSource](https://www.dwservice.net)
+<br>[AI: Alpaca - Canvas com tecnologia de IA para artistas digitais](https://www.alpacaml.com)
 <br>[AI: Phind](https://www.phind.com)
 <br>[AIDE: The open-source AI-native IDE](https://aide.dev)
 <br>[Chrome browser ESP32 Installer](https://flasher.pdxlocs.com)
@@ -136,6 +138,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[One: a new React framework for web and native, built on Vite](https://onestack.dev)
 <br>[Pinggy: Public URLs for Localhost, without downloading any binary](https://pinggy.io)
 <br>[Pinterest Downloader](https://pinterestdownloader.com)
+<br>[Podman: ferramenta gratuita para conteiners e kubernetes (docker)](https://podman-desktop.io)
 <br>[SHAREM: framework de análise de shellcode com APIs e syscalls do Windows](https://github.com/Bw3ll/sharem)
 <br>[Software Testing 101: A Beginner's Guide to Types and Techniques](https://www.linkedin.com/comm/pulse/software-testing-101-beginners-guide-types-techniques-wgphc) Gratuito
 <br>[Verificador de Currículo/Resume Checker para interpretação em sistemas com IA](https://www.resumego.net/resume-checker/) Gratuito
