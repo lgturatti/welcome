@@ -109,6 +109,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[AI: Alpaca - Canvas com tecnologia de IA para artistas digitais](https://www.alpacaml.com)
 <br>[AI: Phind](https://www.phind.com)
 <br>[AIDE: The open-source AI-native IDE](https://aide.dev)
+<br>[Antivírus: Verificação online](https://www.virustotal.com/gui/home/upload)
 <br>[Chrome browser ESP32 Installer](https://flasher.pdxlocs.com)
 <br>[Cloud Guardrails: Quick reference to Cloud Best Practices](https://www.cloudguardrails.com)
 <br>[Consulta IMEI para ver a situação de um aparelho celular](http://www.anatel.gov.br/celularlegal)
