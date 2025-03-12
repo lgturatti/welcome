@@ -98,6 +98,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Linux](https://www.linux.com)
 <br>[Linux: Pop!OS by System76 baseado em Debian/Ubuntu](https://pop.system76.com/)
 <br>[Linux Kernel @Unicamp LKCamp GitLab](https://lkcamp.gitlab.io/lkcamp_docs/)
+<br>[MiniOS: seu Debian PC em um pendrive](https://minios.dev)
 <br>[Personalização do Manjaro Linux com Omakub](https://www.akitaonrails.com/2024/10/30/omakub-pra-manjaro-e-archwsl)
 
 ## Security
