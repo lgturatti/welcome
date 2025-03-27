@@ -57,6 +57,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 ## Event Materials
 [Imersão Dev Back-End - Guia de Mergulho](https://grupoalura.notion.site/imersao-dev-back-end-guia-de-mergulho)
 <br>[LambdaConf'24: Exploring what we can do to make our software better](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
+<br>[RocketSeat: Configuração de ambiente - C#, Full-Stack, Java, Node.JS, Python e React](https://efficient-sloth-d85.notion.site/Configura-o-de-ambiente-307a6d44d5ed4b76b76847a5ad1505df)
 <br>[RocketSeat: Configuração de ambiente - React Native](https://docs-rocketseat.notion.site/Configura-o-de-ambiente-React-Native-149395da577080fcad5df7ef11473819)
 <br>[RocketSeat: NLW Pocket Mobile](https://efficient-sloth-d85.notion.site/NLW-POCKET-Mobile-Guia-do-evento-08846d7bb67b462cad5959836f473474)
 <br>[RocketSeat: NLW Pocket Mobile - Kotlin](https://docs-rocketseat.notion.site/Configura-o-de-ambiente-Kotlin-c923ba2a40984cf9aa5aad7f9db70ccd)
