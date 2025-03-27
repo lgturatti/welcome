@@ -136,6 +136,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[IA: Claude AI](https://claude.ai)
 <br>[IA: Inteligência artificial brasileira](https://www.maritaca.ai)
 <br>[IA: Perplexity: pesquise e descubra com IA](https://www.perplexity.ai)
+<br>[Interview Coder - Assinatura USD](https://www.interviewcoder.co)
 <br>[IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
 <br>[Lista com os maiores programas em Shell do mundo](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World) (e respectivos links)
 <br>[Moshi IA: voice chat in English](https://moshi.chat/?queue_id=talktomoshi)
