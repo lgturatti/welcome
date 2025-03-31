@@ -165,6 +165,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Dica sobre UI/UX design, relacionadas a cores com luz e sombra](https://youtube.com/shorts/8_mq15b7CeI?si=_X1fiBpHpLsLiML3)
 <br>[Erick wender: Otimizando e Monitorando apps JavaScript](https://m.youtube.com/watch?v=Q8omqWTT3Yk)
 <br>[Git Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=CvUiKWv2-C0)
+<br>[Linux Save Desktop - Salve e Restaure suas personalizações](https://m.youtube.com/watch?v=-iqFe1cq8sA)
 <br>[Make Brazil Zuera Again: liberdade de expressão](https://youtube.com/shorts/dFZSbuMHMmE?si=AihQrneIi3jV-wGe)
 <br>[Procrastinação e foco](https://www.linkedin.com/posts/teresa-macedo_procrastinaaexaeto-propaejsito-bemestar-activity-7264253553995640832-9l_N) Teste pessoal
 <br>[SEC: Perigos do KMSpico](https://m.youtube.com/watch?v=sEU1CfOV-LA)
