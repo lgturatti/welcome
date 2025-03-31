@@ -161,10 +161,14 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Tool: Convert YouTube link to mp3 or mp4 file](https://youtube-to-mp3.org/mp3-convert/)
 
 ## Videos
-[Carreira: 11 Conselhos raros de Sênior para Júnior (que não te ensinam)](https://m.youtube.com/watch?v=rTcS0raY4F0)
+[10 alternativas mais eficientes para o terminal Linux](https://www.youtube.com/watch?v=uE4wiVA4YBw)
+<br>[AutoInstalação do Ubuntu com autoinstall.yaml](https://www.youtube.com/watch?v=pB3Td7paWUc)
+<br>[Carreira: 11 Conselhos raros de Sênior para Júnior (que não te ensinam)](https://m.youtube.com/watch?v=rTcS0raY4F0)
+<br>[Comandos perigoso que vão destruir seu Linux](https://www.youtube.com/watch?v=fJjPQBwAQHU)
 <br>[Dica sobre UI/UX design, relacionadas a cores com luz e sombra](https://youtube.com/shorts/8_mq15b7CeI?si=_X1fiBpHpLsLiML3)
 <br>[Erick wender: Otimizando e Monitorando apps JavaScript](https://m.youtube.com/watch?v=Q8omqWTT3Yk)
 <br>[Git Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=CvUiKWv2-C0)
+<br>[Jogos e Programas de Windows no Linux: Wine + PlayOnLinux](https://www.youtube.com/watch?v=TcVJiJOJEcI)
 <br>[Linux Save Desktop - Salve e Restaure suas personalizações](https://m.youtube.com/watch?v=-iqFe1cq8sA)
 <br>[Make Brazil Zuera Again: liberdade de expressão](https://youtube.com/shorts/dFZSbuMHMmE?si=AihQrneIi3jV-wGe)
 <br>[Procrastinação e foco](https://www.linkedin.com/posts/teresa-macedo_procrastinaaexaeto-propaejsito-bemestar-activity-7264253553995640832-9l_N) Teste pessoal
