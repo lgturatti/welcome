@@ -108,6 +108,9 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 [Parrot Security Linux](https://parrotsec.org)
 <br>[ShadowServer Dashboard](https://dashboard.shadowserver.org/#web-cves)
 
+## Study Materials
+[AI: OpenAI Academia - free resource collection](https://academy.openai.com/public/content)
+
 ## Tools
 [Acesso remoto gratuito no navegador - openSource](https://www.dwservice.net)
 <br>[AI: Alpaca - Canvas com tecnologia de IA para artistas digitais](https://www.alpacaml.com)
