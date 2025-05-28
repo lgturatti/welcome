@@ -178,3 +178,5 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Procrastinação e foco](https://www.linkedin.com/posts/teresa-macedo_procrastinaaexaeto-propaejsito-bemestar-activity-7264253553995640832-9l_N) Teste pessoal
 <br>[SEC: Perigos do KMSpico](https://m.youtube.com/watch?v=sEU1CfOV-LA)
 <br>[SEC: Why I don't use a SIM Card (and neither should you)](https://www.youtube.com/watch?v=4Dei2buz1X0)
+<br>[W11: Winhance](https://m.youtube.com/watch?v=wHaDFwOskxQ)
+
