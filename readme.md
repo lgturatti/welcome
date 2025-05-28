@@ -155,6 +155,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Verificador de Currículo/Resume Checker para interpretação em sistemas com IA](https://www.resumego.net/resume-checker/) Gratuito
 <br>[VSCode Extension: Web Visual Editor - debug made easy](https://marketplace.visualstudio.com/items?itemName=Urin.vscode-web-visual-editor)
 <br>[W11: Gerador de instalação limpa automática/offline](https://schneegans.de/windows/unattend-generator/)
+<br>[W11: Winhance - Windows Enhancement Utility](https://github.com/memstechtips/Winhance)
 <br>[Youtube Downloader](https://www.y2mate.com)
 
 ## Unsorted links
