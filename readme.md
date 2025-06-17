@@ -74,6 +74,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 
 ## GitHub / GitLab Projects
 [ARMbian: Linux em processadores ARM](https://github.com/ophub/amlogic-s9xxx-armbian)
+<br>[Codebase to Easy Tutorial with AI from public GitHub repository URL](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
 <br>[DocLing: analisa documentos e os exporta para o formato desejado com facilidade e rapidez (Python)](https://github.com/DS4SD/docling)
 <br>[Flatcar: Linux distribution for running container at scale with low maintenance](https://github.com/flatcar/Flatcar)
 <br>[HyperDX: Quickly figure out why production is broken](https://github.com/hyperdxio/hyperdx/tree/v2)
@@ -132,6 +133,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Ferramenta pra baixar conteúdos do Instagram](https://snapinsta.app/pt)
 <br>[Ferramentas para manuseio de arquivos PDF](https://www.ilovepdf.com)
 <br>[FrontendMasters: Your path to senior developer and beyond](https://frontendmasters.com) Gratuito
+<br>[Gerador de tutorial a partir de um repositório GitHub publico](https://code2tutorial.com)
 <br>[GitHub Student Developer Pack](https://education.github.com/pack) Gratuito
 <br>[GO Playground](https://go.dev/play/) Teste seu código online
 <br>[Google Colab: Permite escrever e executar Python no navegador](https://colab.research.google.com)
