@@ -117,6 +117,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[AI: Phind](https://www.phind.com)
 <br>[AIDE: The open-source AI-native IDE](https://aide.dev)
 <br>[Antivírus: Verificação online](https://www.virustotal.com/gui/home/upload)
+<br>[Anthropic Prompt Library](https://docs.anthropic.com/en/resources/prompt-library/library)
 <br>[Chrome browser ESP32 Installer](https://flasher.pdxlocs.com)
 <br>[Cloud Guardrails: Quick reference to Cloud Best Practices](https://www.cloudguardrails.com)
 <br>[Consulta IMEI para ver a situação de um aparelho celular](http://www.anatel.gov.br/celularlegal)
@@ -135,6 +136,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[GO Playground](https://go.dev/play/) Teste seu código online
 <br>[Google Colab: Permite escrever e executar Python no navegador](https://colab.research.google.com)
 <br>[Google IDX: Ambiente de desenvolvimento online e/com banco de dados](https://idx.google.com)
+<br>[Google Spreadsheets into RESTful APIs](https://www.zerosheets.com)
 <br>[GRUB: tunning/ajustes para deixar sua tela de inicialização incrível](https://www.edivaldobrito.com.br/mudar-o-visual-do-grub-com-o-tema-vimix/)
 <br>[IA: Claude AI](https://claude.ai)
 <br>[IA: Inteligência artificial brasileira](https://www.maritaca.ai)
