@@ -10,6 +10,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 
 ## Articles
 [5 Lesser-Known Data Transformation Techniques for Better Analysis (Python)](https://www.kdnuggets.com/5-lesser-known-data-transformation-techniques-for-better-analysis)
+<br>[AI: 25 ChatGPT Prompts to Replace Hours of Work as a Data Analyst](https://medium.com/ai-analytics-diaries/25-chatgpt-prompts-to-replace-hours-of-work-as-a-data-analyst-e5b206c3e175)
 <br>[AI: A brief history of Notion’s data catalog](https://www.notion.so/blog/a-brief-history-of-notions-data-catalog)
 <br>[AI: AI's Long-Term Impact on Data Engineering Roles](https://dagster.io/blog/ai-and-data-engineering-roles)
 <br>[AI: Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2)
@@ -25,8 +26,11 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Como fazer uma apresentação impecável apenas com o ChatGPT](https://forbes.com.br/forbes-tech/2024/11/como-fazer-uma-apresentacao-impecavel-apenas-com-o-chatgpt)
 <br>[Como identificar se um texto foi escrito por Inteligência Artificial](https://forbes.com.br/forbes-tech/2024/11/como-identificar-se-um-texto-foi-escrito-por-inteligencia-artificial)
 <br>[Data engineering: Apache Iceberg Won the Future](https://blog.det.life/apache-iceberg-won-the-future-whats-next-for-2025-731635bfcb7a)
+<br>[Data Science::How to Find the Right Distribution for Your Data: A Practical Guide for Non-Statistician](https://medium.com/data-science-collective/how-to-find-the-right-distribution-for-your-data-a-practical-guide-for-non-statistician-with-two-dc2aa0ed707f)
+<br>[Data Scrap e Automação com Python](https://medium.com/data-hackers/dados-de-5-570-pdfs-veja-como-automa%C3%A7%C3%A3o-poupou-1-m%C3%AAs-de-trabalho-dc23616599bb)
 <br>[Discover the 5 Best Automation Tools for Bug Bounty Hunters](https://www.linkedin.com/pulse/discover-5-best-automation-tools-bug-bounty-hunters-qxghc/)
 <br>[Do not use secrets in environment variables and here's how to do it better](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
+<br>[Document Processing::Parse vs Extract](https://www.llamaindex.ai/blog/parse-vs-extract)
 <br>[Email obfuscation: O que funciona em 2025 para proteger seu endereço?](https://spencermortensen.com/articles/email-obfuscation/)
 <br>[Explorando diretivas customizadas no GraphQL](https://medium.com/profusion-engineering/explorando-diretivas-customizadas-no-graphql-d7830eb675e4)
 <br>[Firecrawl: How to Scrape Entire Websites With a Single Command in Python](https://medium.datadriveninvestor.com/firecrawl-how-to-scrape-entire-websites-with-a-single-command-in-python-5a8940183c91)
