@@ -174,6 +174,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 
 ## Videos
 [10 alternativas mais eficientes para o terminal Linux](https://www.youtube.com/watch?v=uE4wiVA4YBw)
+<br>[Análise: Secure boot e Linux](https://m.youtube.com/watch?v=Mum0OLpwuvQ)
 <br>[AutoInstalação do Ubuntu com autoinstall.yaml](https://www.youtube.com/watch?v=pB3Td7paWUc)
 <br>[Carreira: 11 Conselhos raros de Sênior para Júnior (que não te ensinam)](https://m.youtube.com/watch?v=rTcS0raY4F0)
 <br>[Comandos perigoso que vão destruir seu Linux](https://www.youtube.com/watch?v=fJjPQBwAQHU)
