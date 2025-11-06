@@ -126,6 +126,8 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Chrome browser ESP32 Installer](https://flasher.pdxlocs.com)
 <br>[Cloud Guardrails: Quick reference to Cloud Best Practices](https://www.cloudguardrails.com)
 <br>[Consulta IMEI para ver a situação de um aparelho celular](http://www.anatel.gov.br/celularlegal)
+<br>[Conversor de documentos](https://www.ilovepdf.com)
+<br>[Conversor de imagens](https://www.iloveimg.com)
 <br>[Criador de Flipbook Online com AI](https://fliphtml5.com)
 <br>[CSV SQL Tool: Run queries directly in your browser](https://csvsqltool.com)
 <br>[DEBUG: 67 Weird tricks your browser doesn't want you to know](https://alan.norbauer.com/articles/browser-debugging-tricks)
