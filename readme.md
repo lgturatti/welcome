@@ -165,6 +165,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Software Testing 101: A Beginner's Guide to Types and Techniques](https://www.linkedin.com/comm/pulse/software-testing-101-beginners-guide-types-techniques-wgphc) Gratuito
 <br>[Verificador de Currículo/Resume Checker para interpretação em sistemas com IA](https://www.resumego.net/resume-checker/) Gratuito
 <br>[VSCode Extension: Web Visual Editor - debug made easy](https://marketplace.visualstudio.com/items?itemName=Urin.vscode-web-visual-editor)
+<br>[WebGradients: 180 free linear gradients](https://webgradients.com)
 <br>[W11: Gerador de instalação limpa automática/offline](https://schneegans.de/windows/unattend-generator/)
 <br>[W11: Winhance - Windows Enhancement Utility](https://github.com/memstechtips/Winhance)
 <br>[Youtube Downloader](https://www.y2mate.com)
