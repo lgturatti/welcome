@@ -49,6 +49,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[SEC: Why the MITRE ATT&CK Evaluation Is Essential for Security Leaders](https://www.linkedin.com/comm/pulse/why-mitre-attck-evaluation-essential-security-leaders-eqq6c)
 <br>[Software Testing 101: A Beginner's Guide to Types and Techniques](https://www.linkedin.com/comm/pulse/software-testing-101-beginners-guide-types-techniques-wgphc)
 <br>[Top 6 Malware Persistence Mechanisms Used by Hackers: A Detailed Guide](https://www.linkedin.com/comm/pulse/top-6-malware-persistence-mechanisms-used-hackers-detailed-ey45c)
+<br>[Using Claude Code to update an old project](https://flaviocopes.notion.site/Using-Claude-Code-to-update-an-old-project-2bdaaea99f25816482ece526963da474)
 <br>[Why We Killed Our End-to-End Test Suite - E2E Nubank](https://building.nubank.com/pt-br/why-we-killed-our-end-to-end-test-suite/)
 
 ## Coding Corner - tips & tricks
