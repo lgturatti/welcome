@@ -13,6 +13,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[AI: 25 ChatGPT Prompts to Replace Hours of Work as a Data Analyst](https://medium.com/ai-analytics-diaries/25-chatgpt-prompts-to-replace-hours-of-work-as-a-data-analyst-e5b206c3e175)
 <br>[AI: A brief history of Notion’s data catalog](https://www.notion.so/blog/a-brief-history-of-notions-data-catalog)
 <br>[AI: AI's Long-Term Impact on Data Engineering Roles](https://dagster.io/blog/ai-and-data-engineering-roles)
+<br>[AI: Code review performed by a team of expert AI agents](https://every.to/source-code/i-stopped-reading-code-my-code-reviews-got-better)
 <br>[AI: Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2)
 <br>[AI: It makes tech debt more expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
 <br>[AI: The Perfect Prompt: A Prompt Engineering Cheat Sheet](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba)
