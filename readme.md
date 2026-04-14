@@ -8,10 +8,15 @@ While this is not ready, use your browser's search function to find the words or
 
 Oh! And don't forget to give a star if this content was useful to you. Thank you for your visit.
 
+## Artificial Intelligence (AI)
+
+
+<br>- [Google AI Studio](https://aistudio.google.com/apps)
+<br>- [Google Antigravity](https://antigravity.google/)
+<br>- [Google Firebase Studio](https://studio.firebase.google.com/)
+
 ## Articles
-[5 Lesser-Known Data Transformation Techniques for Better Analysis (Python)](https://www.kdnuggets.com/5-lesser-known-data-transformation-techniques-for-better-analysis)
-<br>[AI: 25 ChatGPT Prompts to Replace Hours of Work as a Data Analyst](https://medium.com/ai-analytics-diaries/25-chatgpt-prompts-to-replace-hours-of-work-as-a-data-analyst-e5b206c3e175)
-<br>[AI: A brief history of Notion’s data catalog](https://www.notion.so/blog/a-brief-history-of-notions-data-catalog)
+[AI: A brief history of Notion’s data catalog](https://www.notion.so/blog/a-brief-history-of-notions-data-catalog)
 <br>[AI: AI's Long-Term Impact on Data Engineering Roles](https://dagster.io/blog/ai-and-data-engineering-roles)
 <br>[AI: Code review performed by a team of expert AI agents](https://every.to/source-code/i-stopped-reading-code-my-code-reviews-got-better)
 <br>[AI: Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2)
@@ -26,9 +31,6 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Como automatizar totalmente a limpeza de dados com Python em 5 etapas](https://www.kdnuggets.com/how-to-fully-automate-data-cleaning-with-python-in-5-steps)
 <br>[Como fazer uma apresentação impecável apenas com o ChatGPT](https://forbes.com.br/forbes-tech/2024/11/como-fazer-uma-apresentacao-impecavel-apenas-com-o-chatgpt)
 <br>[Como identificar se um texto foi escrito por Inteligência Artificial](https://forbes.com.br/forbes-tech/2024/11/como-identificar-se-um-texto-foi-escrito-por-inteligencia-artificial)
-<br>[Data engineering: Apache Iceberg Won the Future](https://blog.det.life/apache-iceberg-won-the-future-whats-next-for-2025-731635bfcb7a)
-<br>[Data Science::How to Find the Right Distribution for Your Data: A Practical Guide for Non-Statistician](https://medium.com/data-science-collective/how-to-find-the-right-distribution-for-your-data-a-practical-guide-for-non-statistician-with-two-dc2aa0ed707f)
-<br>[Data Scrap e Automação com Python](https://medium.com/data-hackers/dados-de-5-570-pdfs-veja-como-automa%C3%A7%C3%A3o-poupou-1-m%C3%AAs-de-trabalho-dc23616599bb)
 <br>[Discover the 5 Best Automation Tools for Bug Bounty Hunters](https://www.linkedin.com/pulse/discover-5-best-automation-tools-bug-bounty-hunters-qxghc/)
 <br>[Do not use secrets in environment variables and here's how to do it better](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
 <br>[Document Processing::Parse vs Extract](https://www.llamaindex.ai/blog/parse-vs-extract)
@@ -56,8 +58,19 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Why We Killed Our End-to-End Test Suite - E2E Nubank](https://building.nubank.com/pt-br/why-we-killed-our-end-to-end-test-suite/)
 
 ## Coding Corner - tips & tricks
-[Atualização de tudo no Windows 11 com apenas um comando](https://www.techtudo.com.br/dicas-e-tutoriais/2024/10/como-atualizar-todos-os-aplicativos-do-windows-com-apenas-um-comando-edsoftwares.ghtml)
-<br>[XCode: Warning related to team ID - how to setup it](https://stackoverflow.com/questions/56616238/warning-for-xcode-capabilities-for-project-may-not-function-correctly-because)
+- [Atualização de tudo no Windows 11 com apenas um comando](https://www.techtudo.com.br/dicas-e-tutoriais/2024/10/como-atualizar-todos-os-aplicativos-do-windows-com-apenas-um-comando-edsoftwares.ghtml)
+<br>- [Python Online Playground](https://playcode.io/python-playground)
+<br>- [XCode: Warning related to team ID - how to setup it](https://stackoverflow.com/questions/56616238/warning-for-xcode-capabilities-for-project-may-not-function-correctly-because)
+
+
+## Data Science
+<br>- [5 Lesser-Known Data Transformation Techniques for Better Analysis (Python)](https://www.kdnuggets.com/5-lesser-known-data-transformation-techniques-for-better-analysis)
+<br>- [AI: 25 ChatGPT Prompts to Replace Hours of Work as a Data Analyst](https://medium.com/ai-analytics-diaries/25-chatgpt-prompts-to-replace-hours-of-work-as-a-data-analyst-e5b206c3e175)
+<br>- [Coleta de dados - What Everybody Knows About You: Your Car](https://www.lpi.org/pt-br/blog/2026/02/05/what-everybody-knows-about-you-your-car/)
+<br>- [Data engineering: Apache Iceberg Won the Future](https://blog.det.life/apache-iceberg-won-the-future-whats-next-for-2025-731635bfcb7a)
+<br>- [Data Science::How to Find the Right Distribution for Your Data: A Practical Guide for Non-Statistician](https://medium.com/data-science-collective/how-to-find-the-right-distribution-for-your-data-a-practical-guide-for-non-statistician-with-two-dc2aa0ed707f)
+<br>- [Data Scrap e Automação com Python](https://medium.com/data-hackers/dados-de-5-570-pdfs-veja-como-automa%C3%A7%C3%A3o-poupou-1-m%C3%AAs-de-trabalho-dc23616599bb)
+<br>- [Mapa visual de processos para ingestão e análise de dados](https://mermaid.ai/view/88938cf6-6538-4f12-b742-b632fa70e6b2)
 
 ## Documentation
 [React Native v.0.76 New Architecture](https://reactnative.dev/blog/2024/10/23/the-new-architecture-is-here)
@@ -69,6 +82,9 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[RocketSeat: Configuração de ambiente - C#, Full-Stack, Java, Node.JS, Python e React](https://efficient-sloth-d85.notion.site/Configura-o-de-ambiente-307a6d44d5ed4b76b76847a5ad1505df)
 <br>[RocketSeat: Configuração de ambiente - React Native](https://docs-rocketseat.notion.site/Configura-o-de-ambiente-React-Native-149395da577080fcad5df7ef11473819)
 <br>[RocketSeat: NLW Connect](https://efficient-sloth-d85.notion.site/NLW-Connect-Guia-do-evento-e223fad187bd435c8b751913fc4019eb)
+<br>[RocketSeat: NLW Operator](https://efficient-sloth-d85.notion.site/Trilhas-NLW-Operator-310395da577080d2a479f472761c1b44)
+<br>[RocketSeat: NLW Operator - Trilha iniciante: Aprenda a programar com IA](https://efficient-sloth-d85.notion.site/Trilha-Iniciante-Aprenda-a-programar-com-IA-310395da577080cd9e65f221b1eb5388)
+<br>[RocketSeat: NLW Operator - Trilha FullStack: Workflows agênticos](https://efficient-sloth-d85.notion.site/Trilha-Full-Stack-Workflows-ag-nticos-310395da577080a181dcd509f5bcd359)
 <br>[RocketSeat: NLW Pocket Mobile](https://efficient-sloth-d85.notion.site/NLW-POCKET-Mobile-Guia-do-evento-08846d7bb67b462cad5959836f473474)
 <br>[RocketSeat: NLW Pocket Mobile - Kotlin](https://docs-rocketseat.notion.site/Configura-o-de-ambiente-Kotlin-c923ba2a40984cf9aa5aad7f9db70ccd)
 <br>[RocketSeat: NLW Pocket Mobile - React Native](https://docs-rocketseat.notion.site/Configura-o-de-ambiente-React-Native-149395da577080fcad5df7ef11473819)
@@ -160,6 +176,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[IA: Claude AI](https://claude.ai)
 <br>[IA: Inteligência artificial brasileira](https://www.maritaca.ai)
 <br>[IA: Perplexity: pesquise e descubra com IA](https://www.perplexity.ai)
+<br>[Inglês: Aprenda, estude, corrija textos e muito mais](https://www.grammarly.com)
 <br>[Interview Coder - Assinatura USD](https://www.interviewcoder.co)
 <br>[IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
 <br>[Lista com os maiores programas em Shell do mundo](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World) (e respectivos links)
@@ -171,9 +188,11 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Pinterest Downloader](https://pinterestdownloader.com)
 <br>[Pocketbase: Backend Open Source em um arquivo](https://pocketbase.io)
 <br>[Podman: ferramenta gratuita para conteiners e kubernetes (docker)](https://podman-desktop.io)
+<br>[Red Hat build of OpenJDK](https://developers.redhat.com/products/openjdk/download?sc_cid=701f2000000RWTnAAO)
 <br>[SHAREM: framework de análise de shellcode com APIs e syscalls do Windows](https://github.com/Bw3ll/sharem)
 <br>[Software Testing 101: A Beginner's Guide to Types and Techniques](https://www.linkedin.com/comm/pulse/software-testing-101-beginners-guide-types-techniques-wgphc) Gratuito
 <br>[Verificador de Currículo/Resume Checker para interpretação em sistemas com IA](https://www.resumego.net/resume-checker/) Gratuito
+<br>[Visualizar a tela do celular no computador](https://formulae.brew.sh/formula/scrcpy)
 <br>[VSCode Extension: Web Visual Editor - debug made easy](https://marketplace.visualstudio.com/items?itemName=Urin.vscode-web-visual-editor)
 <br>[WebGradients: 180 free linear gradients](https://webgradients.com)
 <br>[W11: Gerador de instalação limpa automática/offline](https://schneegans.de/windows/unattend-generator/)
@@ -196,6 +215,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Dica sobre UI/UX design, relacionadas a cores com luz e sombra](https://youtube.com/shorts/8_mq15b7CeI?si=_X1fiBpHpLsLiML3)
 <br>[Erick wender: Otimizando e Monitorando apps JavaScript](https://m.youtube.com/watch?v=Q8omqWTT3Yk)
 <br>[Git Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=CvUiKWv2-C0)
+<br>[Humor: Make it sh*tty](https://www.youtube.com/watch?v=T4Upf_B9RLQ)
 <br>[Jogos e Programas de Windows no Linux: Wine + PlayOnLinux](https://www.youtube.com/watch?v=TcVJiJOJEcI)
 <br>[Linux Save Desktop - Salve e Restaure suas personalizações](https://m.youtube.com/watch?v=-iqFe1cq8sA)
 <br>[Make Brazil Zuera Again: liberdade de expressão](https://youtube.com/shorts/dFZSbuMHMmE?si=AihQrneIi3jV-wGe)
