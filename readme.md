@@ -9,11 +9,9 @@ While this is not ready, use your browser's search function to find the words or
 Oh! And don't forget to give a star if this content was useful to you. Thank you for your visit.
 
 ## Artificial Intelligence (AI)
-
-
-<br>- [Google AI Studio](https://aistudio.google.com/apps)
-<br>- [Google Antigravity](https://antigravity.google/)
-<br>- [Google Firebase Studio](https://studio.firebase.google.com/)
+- [Google AI Studio](https://aistudio.google.com/apps)
+- [Google Antigravity](https://antigravity.google/)
+- [Google Firebase Studio](https://studio.firebase.google.com/)
 
 ## Articles
 [AI: A brief history of Notion’s data catalog](https://www.notion.so/blog/a-brief-history-of-notions-data-catalog)
@@ -204,6 +202,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[Internet Example website](http://www.example.com)
 <br>[PodCast: A Bug Story - How Narrative Bias Creates Blind Spots](https://spec.fm/podcasts/developer-tea/167202)
 <br>[Tool: Convert YouTube link to mp3 or mp4 file](https://youtube-to-mp3.org/mp3-convert/)
+<br>[Qual macbook comprar](https://qualmacbookcomprar.com.br)
 
 ## Videos
 [10 alternativas mais eficientes para o terminal Linux](https://www.youtube.com/watch?v=uE4wiVA4YBw)
