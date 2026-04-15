@@ -20,6 +20,8 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - [Google AI Studio](https://aistudio.google.com/apps)
 - [Google Antigravity](https://antigravity.google/)
 - [Google Firebase Studio](https://studio.firebase.google.com/)
+- [RouteAI: LLM Local no Design de PCB](
+https://embarcados.com.br/llm-local-no-design-de-pcb-o-projeto-routeai/)
 
 ## Articles
 [As habilidades de um engenheiro senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)
