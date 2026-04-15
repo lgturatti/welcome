@@ -23,6 +23,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[AI: UK New Laboratory for AI Security Research (LASR)](https://www.linkedin.com/comm/pulse/uk-announces-new-laboratory-ai-security-research-ntvbe)
 <br>[Análise independente de modelos de IA e APIs](https://artificialanalysis.ai)
 <br>[Automate Analysis of Common Attack Vectors with a Malware Sandbox with ANY.RUN](https://www.linkedin.com/pulse/automate-analysis-common-attack-vectors-malware-sandbox-j5s4c/)
+- [As habilidades de um engenheiro senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)
 <br>[Benchmark test with code sample for one billion nested loop iterations](https://benjdd.com/languages/)
 <br>[Caminho dourado para ser um desenvolvedor internacional (e ganhando bem!)](https://igor.marcossi.com/caminho-dourado)
 <br>[Coisas sobre Postgres que eu queria ter aprendido antes](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
