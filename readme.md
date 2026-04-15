@@ -103,6 +103,8 @@ https://embarcados.com.br/llm-local-no-design-de-pcb-o-projeto-routeai/)
 <br>[ARMbian: Linux em processadores ARM](https://github.com/ophub/amlogic-s9xxx-armbian)
 <br>[Codebase to Easy Tutorial with AI from public GitHub repository URL](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
 <br>[DocLing: analisa documentos e os exporta para o formato desejado com facilidade e rapidez (Python)](https://github.com/DS4SD/docling)
+<br>[GIT: DS4MapperTest gamepad](https://github.com/Ryochan7/DS4MapperTest)
+<br>[GIT: DS4Windows gamepad](https://github.com/schmaldeo/DS4Windows)
 <br>[Flatcar: Linux distribution for running container at scale with low maintenance](https://github.com/flatcar/Flatcar)
 <br>[Fundamentos em Git, guia completo](https://leandronsp.com/articles/pt-br-fundamentos-do-git-um-guia-completo-2djh)
 <br>[HyperDX: Quickly figure out why production is broken](https://github.com/hyperdxio/hyperdx/tree/v2)
@@ -166,6 +168,7 @@ https://embarcados.com.br/llm-local-no-design-de-pcb-o-projeto-routeai/)
 <br>[Ferramenta pra baixar conteúdos do Instagram](https://snapinsta.app/pt)
 <br>[Ferramentas para manuseio de arquivos PDF](https://www.ilovepdf.com)
 <br>[FrontendMasters: Your path to senior developer and beyond](https://frontendmasters.com) Gratuito
+<br>[Gamepad: app para configurações no Windows - DS4W](https://ds4-windows.com)
 <br>[Gerador de tutorial a partir de um repositório GitHub publico](https://code2tutorial.com)
 <br>[GitHub Student Developer Pack](https://education.github.com/pack) Gratuito
 <br>[GO Playground](https://go.dev/play/) Teste seu código online
