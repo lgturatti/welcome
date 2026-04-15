@@ -58,22 +58,21 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 
 ## Coding Corner - tips & tricks
 - [Atualização de tudo no Windows 11 com apenas um comando](https://www.techtudo.com.br/dicas-e-tutoriais/2024/10/como-atualizar-todos-os-aplicativos-do-windows-com-apenas-um-comando-edsoftwares.ghtml)
-<br>- [Python Online Playground](https://playcode.io/python-playground)
-<br>- [XCode: Warning related to team ID - how to setup it](https://stackoverflow.com/questions/56616238/warning-for-xcode-capabilities-for-project-may-not-function-correctly-because)
-
+- [Python Online Playground](https://playcode.io/python-playground)
+- [XCode: Warning related to team ID - how to setup it](https://stackoverflow.com/questions/56616238/warning-for-xcode-capabilities-for-project-may-not-function-correctly-because)
 
 ## Data Science
-<br>- [5 Lesser-Known Data Transformation Techniques for Better Analysis (Python)](https://www.kdnuggets.com/5-lesser-known-data-transformation-techniques-for-better-analysis)
-<br>- [AI: 25 ChatGPT Prompts to Replace Hours of Work as a Data Analyst](https://medium.com/ai-analytics-diaries/25-chatgpt-prompts-to-replace-hours-of-work-as-a-data-analyst-e5b206c3e175)
-<br>- [Coleta de dados - What Everybody Knows About You: Your Car](https://www.lpi.org/pt-br/blog/2026/02/05/what-everybody-knows-about-you-your-car/)
-<br>- [Data engineering: Apache Iceberg Won the Future](https://blog.det.life/apache-iceberg-won-the-future-whats-next-for-2025-731635bfcb7a)
-<br>- [Data Science::How to Find the Right Distribution for Your Data: A Practical Guide for Non-Statistician](https://medium.com/data-science-collective/how-to-find-the-right-distribution-for-your-data-a-practical-guide-for-non-statistician-with-two-dc2aa0ed707f)
-<br>- [Data Scrap e Automação com Python](https://medium.com/data-hackers/dados-de-5-570-pdfs-veja-como-automa%C3%A7%C3%A3o-poupou-1-m%C3%AAs-de-trabalho-dc23616599bb)
-<br>- [Mapa visual de processos para ingestão e análise de dados](https://mermaid.ai/view/88938cf6-6538-4f12-b742-b632fa70e6b2)
+- [5 Lesser-Known Data Transformation Techniques for Better Analysis (Python)](https://www.kdnuggets.com/5-lesser-known-data-transformation-techniques-for-better-analysis)
+- [AI: 25 ChatGPT Prompts to Replace Hours of Work as a Data Analyst](https://medium.com/ai-analytics-diaries/25-chatgpt-prompts-to-replace-hours-of-work-as-a-data-analyst-e5b206c3e175)
+- [Coleta de dados - What Everybody Knows About You: Your Car](https://www.lpi.org/pt-br/blog/2026/02/05/what-everybody-knows-about-you-your-car/)
+- [Data engineering: Apache Iceberg Won the Future](https://blog.det.life/apache-iceberg-won-the-future-whats-next-for-2025-731635bfcb7a)
+- [Data Science::How to Find the Right Distribution for Your Data: A Practical Guide for Non-Statistician](https://medium.com/data-science-collective/how-to-find-the-right-distribution-for-your-data-a-practical-guide-for-non-statistician-with-two-dc2aa0ed707f)
+- [Data Scrap e Automação com Python](https://medium.com/data-hackers/dados-de-5-570-pdfs-veja-como-automa%C3%A7%C3%A3o-poupou-1-m%C3%AAs-de-trabalho-dc23616599bb)
+- [Mapa visual de processos para ingestão e análise de dados](https://mermaid.ai/view/88938cf6-6538-4f12-b742-b632fa70e6b2)
 
 ## Documentation
-[React Native v.0.76 New Architecture](https://reactnative.dev/blog/2024/10/23/the-new-architecture-is-here)
-<br>[React Navigation 7.0](https://reactnavigation.org/blog/2024/11/06/react-navigation-7.0/)
+- [React Native v.0.76 New Architecture](https://reactnative.dev/blog/2024/10/23/the-new-architecture-is-here)
+- [React Navigation 7.0](https://reactnavigation.org/blog/2024/11/06/react-navigation-7.0/)
 
 ## Event Materials
 [Imersão Dev Back-End - Guia de Mergulho](https://grupoalura.notion.site/imersao-dev-back-end-guia-de-mergulho)
