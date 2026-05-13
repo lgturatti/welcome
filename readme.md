@@ -136,6 +136,7 @@ https://embarcados.com.br/llm-local-no-design-de-pcb-o-projeto-routeai/)
 <br>[Linux Kernel @Unicamp LKCamp GitLab](https://lkcamp.gitlab.io/lkcamp_docs/)
 <br>[MiniOS: seu Debian PC em um pendrive](https://minios.dev)
 <br>[Personalização do Manjaro Linux com Omakub](https://www.akitaonrails.com/2024/10/30/omakub-pra-manjaro-e-archwsl)
+<br>[PS5: Running Linux](https://github.com/ps5-linux/ps5-linux-loader)
 
 ## Security
 [Parrot Security Linux](https://parrotsec.org)
