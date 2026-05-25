@@ -57,6 +57,7 @@ https://embarcados.com.br/llm-local-no-design-de-pcb-o-projeto-routeai/)
 <br>[Top 6 Malware Persistence Mechanisms Used by Hackers: A Detailed Guide](https://www.linkedin.com/comm/pulse/top-6-malware-persistence-mechanisms-used-hackers-detailed-ey45c)
 <br>[Using Claude Code to update an old project](https://flaviocopes.notion.site/Using-Claude-Code-to-update-an-old-project-2bdaaea99f25816482ece526963da474)
 <br>[Why We Killed Our End-to-End Test Suite - E2E Nubank](https://building.nubank.com/pt-br/why-we-killed-our-end-to-end-test-suite/)
+- \[US\][Não se enrole. Use aquilo que já está pronto](https://susam.net/do-not-roll-your-own.html)
 
 ## Coding Corner - tips & tricks
 - [Atualização de tudo no Windows 11 com apenas um comando](https://www.techtudo.com.br/dicas-e-tutoriais/2024/10/como-atualizar-todos-os-aplicativos-do-windows-com-apenas-um-comando-edsoftwares.ghtml)
