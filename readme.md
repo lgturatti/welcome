@@ -236,3 +236,5 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 <br>[SEC: Why I don't use a SIM Card (and neither should you)](https://www.youtube.com/watch?v=4Dei2buz1X0)
 <br>[W11: Winhance](https://m.youtube.com/watch?v=wHaDFwOskxQ)
 
+## Windows 11
+- organizar
