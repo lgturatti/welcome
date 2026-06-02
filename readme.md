@@ -20,6 +20,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[AI\] [Google Firebase Studio](https://studio.firebase.google.com/)
 - \[AI\] [Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2)
 - \[AI\] [It makes tech debt more expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive)
+- \[AI\] [Odysseus self-hosted workspace](https://github.com/pewdiepie-archdaemon/odysseus)
 - \[AI\] [RouteAI: LLM Local no Design de PCB](https://embarcados.com.br/llm-local-no-design-de-pcb-o-projeto-routeai/)
 - \[AI\] [The Perfect Prompt: A Prompt Engineering Cheat Sheet](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba)
 - \[AI\] [UK New Laboratory for AI Security Research (LASR)](https://www.linkedin.com/comm/pulse/uk-announces-new-laboratory-ai-security-research-ntvbe)
