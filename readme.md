@@ -206,6 +206,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - [SHAREM: framework de análise de shellcode com APIs e syscalls do Windows](https://github.com/Bw3ll/sharem)
 - [Self-hosted photo and video management solution](https://immich.app)
 - [Software Testing 101: A Beginner's Guide to Types and Techniques](https://www.linkedin.com/comm/pulse/software-testing-101-beginners-guide-types-techniques-wgphc) Gratuito
+- [SMRY: Sumary/Resumo Leitor de artigos com IA. Artigos, vídeos do YouTube e mais](https://smry.ai/pt)
 - [Verificador de Currículo/Resume Checker para interpretação em sistemas com IA](https://www.resumego.net/resume-checker/) Gratuito
 - [Verificador de DNS](https://www.dnsleaktest.com)
 - [Visualizar a tela do celular no computador](https://formulae.brew.sh/formula/scrcpy)
