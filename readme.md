@@ -15,6 +15,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[AI\] [AX: Agent Executor runtime](https://github.com/google/ax) (Gratuito)
 - \[AI\] [ClawPatrol: Security firewall for agents](https://github.com/denoland/clawpatrol)
 - \[AI\] [Code review performed by a team of expert AI agents](https://every.to/source-code/i-stopped-reading-code-my-code-reviews-got-better)
+- \[AI\] [Context compression layer for AI agents: 60-95% fewer tokens, same answers](https://github.com/headroomlabs-ai/headroom)
 - \[AI\] [Google AI Studio](https://aistudio.google.com/apps)
 - \[AI\] [Google Antigravity](https://antigravity.google/)
 - \[AI\] [Google Firebase Studio](https://studio.firebase.google.com/)
