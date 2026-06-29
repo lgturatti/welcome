@@ -125,6 +125,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[GIT\] [OpenWRT: Transforme seu TVBox com Android antigo em um roteador Linux](https://github.com/ophub/amlogic-s9xxx-openwrt)
 - \[GIT\] [OSX PROMOX - Utilize o MacOS em qualquer desktop AMD ou Intel](https://github.com/luchina-gabriel/OSX-PROXMOX)
 - \[GIT\] [REMBG: Remove o fundo de imagens](https://github.com/danielgatis/rembg)
+- \[GIT\] [Reverse engineering: Repository to prompt](https://www.gitreverse.com)
 - \[GIT\] [SAM: Remove o fundo de imagens](https://github.com/mrsyee/sam-remove-background)
 - \[GIT\] [SCRCPY: Screen Copy - visualize a tela do Android no computador](https://github.com/Genymobile/scrcpy)
 - \[GIT\] [SCRCPY-PLUS: GUI para scrcpy e funções do ADB](https://github.com/frontesque/scrcpy-plus)
