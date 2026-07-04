@@ -235,6 +235,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - [Dica sobre UI/UX design, relacionadas a cores com luz e sombra](https://youtube.com/shorts/8_mq15b7CeI?si=_X1fiBpHpLsLiML3)
 - [Erick wender: Otimizando e Monitorando apps JavaScript](https://m.youtube.com/watch?v=Q8omqWTT3Yk)
 - [Git Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=CvUiKWv2-C0)
+- [Guia de distribuições Linux para pessoas indecisas](https://m.youtube.com/watch?v=Tm9mzbIuNig)
 - [Humor: Make it sh*tty](https://www.youtube.com/watch?v=T4Upf_B9RLQ)
 - [Jogos e Programas de Windows no Linux: Wine + PlayOnLinux](https://www.youtube.com/watch?v=TcVJiJOJEcI)
 - [Linux Save Desktop - Salve e Restaure suas personalizações](https://m.youtube.com/watch?v=-iqFe1cq8sA)
