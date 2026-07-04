@@ -248,3 +248,4 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 
 ## Windows 11
 - organizar
+- [Notepad-style text editor in roughly 2.5 KB](https://github.com/PlummersSoftwareLLC/TinyRetroPad)
