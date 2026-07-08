@@ -54,6 +54,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[DEV\] [Otimização de APIs em Produção: Usando FastAPI e Gunicorn](https://medium.com/data-hackers/otimiza%C3%A7%C3%A3o-de-apis-em-produ%C3%A7%C3%A3o-usando-fastapi-e-gunicorn-3eec9bd24ef4)
 - \[DEV\] [Programação - Por que iniciantes ficam sobrecarregados aprendendo a programar (e como consertar isso)](https://www.linkedin.com/pulse/why-beginners-get-overwhelmed-learning-code-how-fix-w3schools-com-nt6fe)
 - \[DEV\] [React 19 Stable Release: What’s New and How to Upgrade](https://dev.to/gladiatorsbattle/react-19-stable-release-whats-new-and-how-to-upgrade-299d)
+- \[DEV\] [Reverse Engineering Shared Libraries on Linux: A Technical Study](https://vangeancexyz.blogspot.com/2026/07/confin.html)
 - \[DEV\] [Software Testing 101: A Beginner's Guide to Types and Techniques](https://www.linkedin.com/comm/pulse/software-testing-101-beginners-guide-types-techniques-wgphc)
 - \[DEV\] [Using Claude Code to update an old project](https://flaviocopes.notion.site/Using-Claude-Code-to-update-an-old-project-2bdaaea99f25816482ece526963da474)
 - \[DEV\] [Why We Killed Our End-to-End Test Suite - E2E Nubank](https://building.nubank.com/pt-br/why-we-killed-our-end-to-end-test-suite/)
