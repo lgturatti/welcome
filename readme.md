@@ -164,6 +164,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - [AIDE: The open-source AI-native IDE](https://aide.dev)
 - [Antivírus: Verificação online](https://www.virustotal.com/gui/home/upload)
 - [Anthropic Prompt Library](https://docs.anthropic.com/en/resources/prompt-library/library)
+- [Assinatura digital de documentos D4sign](https://d4sign.com.br/)
 - [Calculadora para uso de disco em Linux](https://codeberg.org/201984/dut)
 - [Chrome browser ESP32 Installer](https://flasher.pdxlocs.com)
 - [Cloud Guardrails: Quick reference to Cloud Best Practices](https://www.cloudguardrails.com)
