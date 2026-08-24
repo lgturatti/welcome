@@ -15,6 +15,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[AI\] [AX: Agent Executor runtime](https://github.com/google/ax) (Gratuito)
 - \[AI\] [ClawPatrol: Security firewall for agents](https://github.com/denoland/clawpatrol)
 - \[AI\] [Code review performed by a team of expert AI agents](https://every.to/source-code/i-stopped-reading-code-my-code-reviews-got-better)
+- \[AI\] [Como criar um agente com LLM local de graça e sem depender de APIs](https://medium.com/data-hackers/como-criar-um-agente-com-llm-local-de-gra%C3%A7a-e-sem-depender-de-apis-3de981e6d420)
 - \[AI\] [Context compression layer for AI agents: 60-95% fewer tokens, same answers](https://github.com/headroomlabs-ai/headroom)
 - \[AI\] [Google AI Studio](https://aistudio.google.com/apps)
 - \[AI\] [Google Antigravity](https://antigravity.google/)
@@ -25,6 +26,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[AI\] [Repomix - packs the entire repo into a single AI-friendly file](https://github.com/yamadashy/repomix)
 - \[AI\] [RouteAI: LLM Local no Design de PCB](https://embarcados.com.br/llm-local-no-design-de-pcb-o-projeto-routeai/)
 - \[AI\] [The Perfect Prompt: A Prompt Engineering Cheat Sheet](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba)
+- \[AI\] [Tutorial OpenCode para Iniciantes: Configuração, Agentes, Habilidades e MCP](https://www.youtube.com/watch?v=uZGDO0L-Dr4)
 - \[AI\] [UK New Laboratory for AI Security Research (LASR)](https://www.linkedin.com/comm/pulse/uk-announces-new-laboratory-ai-security-research-ntvbe)
 - \[AI\] [WisprFloa: Voz para texto](https://wisprflow.ai)
 
