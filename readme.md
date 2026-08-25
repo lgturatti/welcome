@@ -11,12 +11,14 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 ## Artificial Intelligence (AI) / Inteligência Artificial
 - \[AI\] [A brief history of Notion’s data catalog](https://www.notion.so/blog/a-brief-history-of-notions-data-catalog)
 - \[AI\] [Academia OpenAI](https://academy.openai.com/public/content) (Coleção Gratuita)
+- \[AI\] [Agentes CAD, CAE e CAM](https://github.com/earthtojake/text-to-cad)
 - \[AI\] [AI's Long-Term Impact on Data Engineering Roles](https://dagster.io/blog/ai-and-data-engineering-roles)
 - \[AI\] [AX: Agent Executor runtime](https://github.com/google/ax) (Gratuito)
 - \[AI\] [ClawPatrol: Security firewall for agents](https://github.com/denoland/clawpatrol)
 - \[AI\] [Code review performed by a team of expert AI agents](https://every.to/source-code/i-stopped-reading-code-my-code-reviews-got-better)
 - \[AI\] [Como criar um agente com LLM local de graça e sem depender de APIs](https://medium.com/data-hackers/como-criar-um-agente-com-llm-local-de-gra%C3%A7a-e-sem-depender-de-apis-3de981e6d420)
 - \[AI\] [Context compression layer for AI agents: 60-95% fewer tokens, same answers](https://github.com/headroomlabs-ai/headroom)
+- \[AI\] [Gerador de voz](https://elevenlabs.io)
 - \[AI\] [Google AI Studio](https://aistudio.google.com/apps)
 - \[AI\] [Google Antigravity](https://antigravity.google/)
 - \[AI\] [Google Firebase Studio](https://studio.firebase.google.com/)
@@ -25,6 +27,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[AI\] [Odysseus self-hosted workspace](https://github.com/pewdiepie-archdaemon/odysseus)
 - \[AI\] [Repomix - packs the entire repo into a single AI-friendly file](https://github.com/yamadashy/repomix)
 - \[AI\] [RouteAI: LLM Local no Design de PCB](https://embarcados.com.br/llm-local-no-design-de-pcb-o-projeto-routeai/)
+- \[AI\] [Testes com Xeon](https://m.youtube.com/watch?v=s8lnvDfpbmQ)
 - \[AI\] [The Perfect Prompt: A Prompt Engineering Cheat Sheet](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba)
 - \[AI\] [Tutorial OpenCode para Iniciantes: Configuração, Agentes, Habilidades e MCP](https://www.youtube.com/watch?v=uZGDO0L-Dr4)
 - \[AI\] [UK New Laboratory for AI Security Research (LASR)](https://www.linkedin.com/comm/pulse/uk-announces-new-laboratory-ai-security-research-ntvbe)
@@ -58,6 +61,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[DEV\] [Programação - Por que iniciantes ficam sobrecarregados aprendendo a programar (e como consertar isso)](https://www.linkedin.com/pulse/why-beginners-get-overwhelmed-learning-code-how-fix-w3schools-com-nt6fe)
 - \[DEV\] [React 19 Stable Release: What’s New and How to Upgrade](https://dev.to/gladiatorsbattle/react-19-stable-release-whats-new-and-how-to-upgrade-299d)
 - \[DEV\] [Reverse Engineering Shared Libraries on Linux: A Technical Study](https://vangeancexyz.blogspot.com/2026/07/confin.html)
+- \[DEV\] [Script para tornar fácio o scrcpy no desktop](https://plus.diolinux.com.br/t/um-utilitario-para-o-scrcpy-facil-e-conveniente/83599)
 - \[DEV\] [Software Testing 101: A Beginner's Guide to Types and Techniques](https://www.linkedin.com/comm/pulse/software-testing-101-beginners-guide-types-techniques-wgphc)
 - \[DEV\] [Using Claude Code to update an old project](https://flaviocopes.notion.site/Using-Claude-Code-to-update-an-old-project-2bdaaea99f25816482ece526963da474)
 - \[DEV\] [Why We Killed Our End-to-End Test Suite - E2E Nubank](https://building.nubank.com/pt-br/why-we-killed-our-end-to-end-test-suite/)
@@ -74,6 +78,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 ## Coding Corner - tips & tricks
 - [Atualização de tudo no Windows 11 com apenas um comando](https://www.techtudo.com.br/dicas-e-tutoriais/2024/10/como-atualizar-todos-os-aplicativos-do-windows-com-apenas-um-comando-edsoftwares.ghtml)
 - [Python Online Playground](https://playcode.io/python-playground)
+- [Todos os formatos de imagem](https://m.youtube.com/watch?v=qWTzoZP4R4I)
 - [XCode: Warning related to team ID - how to setup it](https://stackoverflow.com/questions/56616238/warning-for-xcode-capabilities-for-project-may-not-function-correctly-because)
 
 ## Data Science / Ciência de dados
@@ -119,11 +124,13 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[GIT\] [DS4MapperTest gamepad](https://github.com/Ryochan7/DS4MapperTest)
 - \[GIT\] [DS4Windows gamepad](https://github.com/schmaldeo/DS4Windows)
 - \[GIT\] [Ferramenta Web para edição de áudio](https://github.com/pkalogiros/audiomass) (Gratuita)
+- \[GIT\] [File managing interface on browser](https://github.com/filebrowser/filebrowser)
 - \[GIT\] [Flatcar: Linux distribution for running container at scale with low maintenance](https://github.com/flatcar/Flatcar)
 - \[GIT\] [Fundamentos em Git, guia completo](https://leandronsp.com/articles/pt-br-fundamentos-do-git-um-guia-completo-2djh)
 - \[GIT\] [HyperDX: Quickly figure out why production is broken](https://github.com/hyperdxio/hyperdx/tree/v2)
 - \[GIT\] [INK: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
 - \[GIT\] [IscariotSuite: a collection of tools to enhance and augment trusted open-source](https://gitlab.com/badsectorlabs/iscariot-suite)
+- \[GIT\] [Linux: MacOS style AppImage installer and management](https://github.com/kem-a/AppManager) [Veja como](https://m.youtube.com/watch?v=tmzvCrl18LA)
 - \[GIT\] [MemReduct: Lightweight real-time memory management application to monitor and clean system memory on your Windows](https://github.com/henrypp/memreduct)
 - \[GIT\] [OpenRecall: Windows Recall Open Source](https://github.com/openrecall/openrecall)
 - \[GIT\] [OpenWRT: Transforme seu TVBox com Android antigo em um roteador Linux](https://github.com/ophub/amlogic-s9xxx-openwrt)
@@ -148,6 +155,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - [Datassette: Livros, Manuais, Revistas e Software](https://datassette.org/pt-br)
 
 ## Linux
+- [Diolinux: Grupo "eu que fiz"](https://plus.diolinux.com.br/c/eu-que-fiz/19)
 - [DistroWatch](https://distrowatch.com)
 - [Linux.com](https://www.linux.com)
 - [Linux: Pop!OS by System76 baseado em Debian/Ubuntu](https://pop.system76.com/)
@@ -246,10 +254,12 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - [Humor: Make it sh*tty](https://www.youtube.com/watch?v=T4Upf_B9RLQ)
 - [Jogos e Programas de Windows no Linux: Wine + PlayOnLinux](https://www.youtube.com/watch?v=TcVJiJOJEcI)
 - [Linux Save Desktop - Salve e Restaure suas personalizações](https://m.youtube.com/watch?v=-iqFe1cq8sA)
+- [Linux + Steam + Lua + OpenCode](https://m.youtube.com/watch?v=yS6OTZqZ2eQ)
 - [Make Brazil Zuera Again: liberdade de expressão](https://youtube.com/shorts/dFZSbuMHMmE?si=AihQrneIi3jV-wGe)
 - [Procrastinação e foco](https://www.linkedin.com/posts/teresa-macedo_procrastinaaexaeto-propaejsito-bemestar-activity-7264253553995640832-9l_N) Teste pessoal
 - [SEC: Perigos do KMSpico](https://m.youtube.com/watch?v=sEU1CfOV-LA)
 - [SEC: Why I don't use a SIM Card (and neither should you)](https://www.youtube.com/watch?v=4Dei2buz1X0)
+- [Transformação de smartphone quebrado em laptop funcionando](https://m.youtube.com/watch?v=mciEZKSvva8)
 - [Tutorial: Block ADS on all your devices from anywhere using Pi-hole e Tailscale](https://tailscale.com/docs/solutions/block-ads-all-devices-anywhere-using-raspberry-pi) 
 - [W11: Winhance](https://m.youtube.com/watch?v=wHaDFwOskxQ)
 
