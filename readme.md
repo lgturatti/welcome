@@ -10,10 +10,12 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 
 ## Artificial Intelligence (AI) / Inteligência Artificial
 - \[AI\] [A brief history of Notion’s data catalog](https://www.notion.so/blog/a-brief-history-of-notions-data-catalog)
+- \[AI\] [A fast Video Generator for the GPU Poor](https://github.com/deepbeepmeep/Wan2GP) Supports Wan 2.1/2.2, LTX-2, Qwen Image, Hunyuan Video, LTX Video and Flux.
 - \[AI\] [Academia OpenAI](https://academy.openai.com/public/content) (Coleção Gratuita)
 - \[AI\] [Agentes CAD, CAE e CAM](https://github.com/earthtojake/text-to-cad)
 - \[AI\] [AI's Long-Term Impact on Data Engineering Roles](https://dagster.io/blog/ai-and-data-engineering-roles)
 - \[AI\] [AX: Agent Executor runtime](https://github.com/google/ax) (Gratuito)
+- \[AI\] [Cheaper Inferece: tokens mais acessíveis](https://cheaperinference.com)
 - \[AI\] [ClawPatrol: Security firewall for agents](https://github.com/denoland/clawpatrol)
 - \[AI\] [Code review performed by a team of expert AI agents](https://every.to/source-code/i-stopped-reading-code-my-code-reviews-got-better)
 - \[AI\] [Como criar um agente com LLM local de graça e sem depender de APIs](https://medium.com/data-hackers/como-criar-um-agente-com-llm-local-de-gra%C3%A7a-e-sem-depender-de-apis-3de981e6d420)
@@ -94,6 +96,9 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - [React Native v.0.76 New Architecture](https://reactnative.dev/blog/2024/10/23/the-new-architecture-is-here)
 - [React Navigation 7.0](https://reactnavigation.org/blog/2024/11/06/react-navigation-7.0/)
 
+## Electronics
+- [Guia prático de conversão fio AWG milímetros com tabela](https://antenaativa.com.br/tabela-de-conversao-de-fio-awg/)
+
 ## Event Materials / Materiais compartilhados em eventos
 - [Imersão Dev Back-End - Guia de Mergulho](https://grupoalura.notion.site/imersao-dev-back-end-guia-de-mergulho)
 - [LambdaConf'24: Exploring what we can do to make our software better](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
@@ -143,6 +148,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[GIT\] [SCRCPY-PLUS: GUI para scrcpy e funções do ADB](https://github.com/frontesque/scrcpy-plus)
 - \[GIT\] [SEC: API Security Vulnerability Scanner](https://github.com/cerberauth/vulnapi)
 - \[GIT\] [SEC: Vulnerable apps - fork com mais de 100 apps para estudo de segurança](https://github.com/vulnerable-apps)
+- \[GIT\] [Simple RESTful API for WhatsApp in Golang](https://github.com/asternic/wuzapi) (using the Whatsmeow multi device library)
 - \[GIT\] [Skimpy: light weight summary statistics on console (Python)](https://github.com/aeturrell/skimpy)
 - \[GIT\] [SQL Explorer: escreva e compartilhe consultas, com auxílio de IA](https://github.com/explorerhq/sql-explorer)
 - \[GIT\] [Tiny 386 PC emulator: running win9x on esp32](https://github.com/hchunhui/tiny386)
@@ -157,12 +163,14 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 ## Linux
 - [Diolinux: Grupo "eu que fiz"](https://plus.diolinux.com.br/c/eu-que-fiz/19)
 - [DistroWatch](https://distrowatch.com)
+- [Gestor PDFs](https://github.com/pdfarranger/pdfarranger)
 - [Linux.com](https://www.linux.com)
 - [Linux: Pop!OS by System76 baseado em Debian/Ubuntu](https://pop.system76.com/)
 - [Linux Kernel @Unicamp LKCamp GitLab](https://lkcamp.gitlab.io/lkcamp_docs/)
 - [MiniOS: seu Debian PC em um pendrive](https://minios.dev)
 - [Personalização do Manjaro Linux com Omakub](https://www.akitaonrails.com/2024/10/30/omakub-pra-manjaro-e-archwsl)
 - [PS5: Running Linux](https://github.com/ps5-linux/ps5-linux-loader)
+- [Which Linux Filesystem Should You Use?](https://m.youtube.com/watch?v=4kMt5RtDZ7g)
 
 ## Security
 - [Parrot Security Linux](https://parrotsec.org)
@@ -176,6 +184,8 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - [Antivírus: Verificação online](https://www.virustotal.com/gui/home/upload)
 - [Anthropic Prompt Library](https://docs.anthropic.com/en/resources/prompt-library/library)
 - [Assinatura digital de documentos D4sign](https://d4sign.com.br/)
+- [Bibliotecas C++ Microsoft build tools (vs_BuildTools.exe)](https://visualstudio.microsoft.com/pt-br/visual-cpp-build-tools/)
+- [Bibliotecas C++ Runtime](https://github.com/abbodi1406/vcredist)
 - [Calculadora para uso de disco em Linux](https://codeberg.org/201984/dut)
 - [Chrome browser ESP32 Installer](https://flasher.pdxlocs.com)
 - [Cloud Guardrails: Quick reference to Cloud Best Practices](https://www.cloudguardrails.com)
@@ -228,6 +238,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - [W11: Admin system tweaks com powershell](https://github.com/christitustech/winutil)
 - [W11: Download da imagem oficial](https://www.microsoft.com/en-us/software-download/windows11)
 - [W11: Gerador de instalação limpa automática/offline](https://schneegans.de/windows/unattend-generator/)
+- [W11: Hasleo WinToUSB - ISO recorder](https://www.easyuefi.com/wintousb/)
 - [W11: Remoção da IA na versão 25H2 e posteriores](https://github.com/zoicware/RemoveWindowsAI)
 - [W11: tiny11builder - Scripts para criar uma imagem simplificada no PowerShell](https://github.com/ntdevlabs/tiny11builder)
 - [W11: Winhance - Windows Enhancement Utility](https://github.com/memstechtips/Winhance)
@@ -249,6 +260,9 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - [Comandos perigoso que vão destruir seu Linux](https://www.youtube.com/watch?v=fJjPQBwAQHU)
 - [Dica sobre UI/UX design, relacionadas a cores com luz e sombra](https://youtube.com/shorts/8_mq15b7CeI?si=_X1fiBpHpLsLiML3)
 - [Erick wender: Otimizando e Monitorando apps JavaScript](https://m.youtube.com/watch?v=Q8omqWTT3Yk)
+- [Every Free App You Actually Need Explained 1](https://m.youtube.com/watch?v=Bf5K4fpWMA4)
+- [Every Free App You Actually Need Explained 2](https://m.youtube.com/watch?v=AqPi6WjzM_Q)
+- [Every Free App You Actually Need Explained 3](https://m.youtube.com/watch?v=dSOdmHcD-gw)
 - [Git Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=CvUiKWv2-C0)
 - [Guia de distribuições Linux para pessoas indecisas](https://m.youtube.com/watch?v=Tm9mzbIuNig)
 - [Humor: Make it sh*tty](https://www.youtube.com/watch?v=T4Upf_B9RLQ)
