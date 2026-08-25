@@ -21,6 +21,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[AI\] [Code review performed by a team of expert AI agents](https://every.to/source-code/i-stopped-reading-code-my-code-reviews-got-better)
 - \[AI\] [Como criar um agente com LLM local de graça e sem depender de APIs](https://medium.com/data-hackers/como-criar-um-agente-com-llm-local-de-gra%C3%A7a-e-sem-depender-de-apis-3de981e6d420)
 - \[AI\] [Context compression layer for AI agents: 60-95% fewer tokens, same answers](https://github.com/headroomlabs-ai/headroom)
+- \[AI\] [DeepSeek Harness](https://imasters.com.br/noticia/deepseek-libera-harness-runtime-open-source-para-agentes-de-ia-modulares)
 - \[AI\] [DeepSeek Harness Tutorial: Getting Started with the Most Popular Open-Source AI Agent](https://www.datacamp.com/tutorial/deepseek-harness)
 - \[AI\] [Gerador de voz](https://elevenlabs.io)
 - \[AI\] [Google AI Studio](https://aistudio.google.com/apps)
