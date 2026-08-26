@@ -244,6 +244,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - [W11: Download da imagem oficial](https://www.microsoft.com/en-us/software-download/windows11)
 - [W11: Gerador de instalação limpa automática/offline](https://schneegans.de/windows/unattend-generator/)
 - [W11: Hasleo WinToUSB - ISO recorder](https://www.easyuefi.com/wintousb/)
+- [W11: Notepad-style text editor in roughly 2.5 KB](https://github.com/PlummersSoftwareLLC/TinyRetroPad)
 - [W11: Remoção da IA na versão 25H2 e posteriores](https://github.com/zoicware/RemoveWindowsAI)
 - [W11: tiny11builder - Scripts para criar uma imagem simplificada no PowerShell](https://github.com/ntdevlabs/tiny11builder)
 - [W11: Winhance - Windows Enhancement Utility](https://github.com/memstechtips/Winhance)
@@ -264,6 +265,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - [Carreira: 11 Conselhos raros de Sênior para Júnior (que não te ensinam)](https://m.youtube.com/watch?v=rTcS0raY4F0)
 - [Comandos perigoso que vão destruir seu Linux](https://www.youtube.com/watch?v=fJjPQBwAQHU)
 - [Dica sobre UI/UX design, relacionadas a cores com luz e sombra](https://youtube.com/shorts/8_mq15b7CeI?si=_X1fiBpHpLsLiML3)
+- [EMUDECK Tutorial para emuladores](https://m.youtube.com/watch?v=qMlH4pFa4kc)
 - [Erick wender: Otimizando e Monitorando apps JavaScript](https://m.youtube.com/watch?v=Q8omqWTT3Yk)
 - [Every Free App You Actually Need Explained 1](https://m.youtube.com/watch?v=Bf5K4fpWMA4)
 - [Every Free App You Actually Need Explained 2](https://m.youtube.com/watch?v=AqPi6WjzM_Q)
@@ -276,6 +278,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - [Linux + Steam + Lua + OpenCode](https://m.youtube.com/watch?v=yS6OTZqZ2eQ)
 - [Make Brazil Zuera Again: liberdade de expressão](https://youtube.com/shorts/dFZSbuMHMmE?si=AihQrneIi3jV-wGe)
 - [Procrastinação e foco](https://www.linkedin.com/posts/teresa-macedo_procrastinaaexaeto-propaejsito-bemestar-activity-7264253553995640832-9l_N) Teste pessoal
+- [Resolvendo drivers no Linux](https://m.youtube.com/watch?v=icCUDpZZ2t0)
 - [SEC: Perigos do KMSpico](https://m.youtube.com/watch?v=sEU1CfOV-LA)
 - [SEC: Why I don't use a SIM Card (and neither should you)](https://www.youtube.com/watch?v=4Dei2buz1X0)
 - [Transformação de smartphone quebrado em laptop funcionando](https://m.youtube.com/watch?v=mciEZKSvva8)
@@ -284,4 +287,4 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 
 ## Windows 11
 - organizar
-- [Notepad-style text editor in roughly 2.5 KB](https://github.com/PlummersSoftwareLLC/TinyRetroPad)
+
