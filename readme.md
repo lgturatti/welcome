@@ -51,6 +51,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[DEV\] [Como fazer uma apresentação impecável apenas com o ChatGPT](https://forbes.com.br/forbes-tech/2024/11/como-fazer-uma-apresentacao-impecavel-apenas-com-o-chatgpt)
 - \[DEV\] [Como identificar se um texto foi escrito por Inteligência Artificial](https://forbes.com.br/forbes-tech/2024/11/como-identificar-se-um-texto-foi-escrito-por-inteligencia-artificial)
 - \[DEV\] [Concorrencia e worker pools em Go: conhecimento necessario](https://rifeli.dev/blog/2026-05-27-concorrencia-worker-pools-go/)
+- \[DEV\] [Destravando o navegador](https://www.sacredheartsc.com/blog/browser-de-slop/) (Desativando coisas superfluas)
 - \[DEV\] [Discover the 5 Best Automation Tools for Bug Bounty Hunters](https://www.linkedin.com/pulse/discover-5-best-automation-tools-bug-bounty-hunters-qxghc/)
 - \[DEV\] [Do not use secrets in environment variables and here's how to do it better](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
 - \[DEV\] [Document Processing::Parse vs Extract](https://www.llamaindex.ai/blog/parse-vs-extract)
