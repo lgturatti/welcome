@@ -69,6 +69,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[DEV\] [React 19 Stable Release: What’s New and How to Upgrade](https://dev.to/gladiatorsbattle/react-19-stable-release-whats-new-and-how-to-upgrade-299d)
 - \[DEV\] [Reverse Engineering Shared Libraries on Linux: A Technical Study](https://vangeancexyz.blogspot.com/2026/07/confin.html)
 - \[DEV\] [Script para tornar fácio o scrcpy no desktop](https://plus.diolinux.com.br/t/um-utilitario-para-o-scrcpy-facil-e-conveniente/83599)
+- \[DEV\] [Seu executável é um banco de dados SQLite](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database
 - \[DEV\] [Software Testing 101: A Beginner's Guide to Types and Techniques](https://www.linkedin.com/comm/pulse/software-testing-101-beginners-guide-types-techniques-wgphc)
 - \[DEV\] [Using Claude Code to update an old project](https://flaviocopes.notion.site/Using-Claude-Code-to-update-an-old-project-2bdaaea99f25816482ece526963da474)
 - \[DEV\] [Why We Killed Our End-to-End Test Suite - E2E Nubank](https://building.nubank.com/pt-br/why-we-killed-our-end-to-end-test-suite/)
