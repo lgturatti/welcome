@@ -18,6 +18,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[AI\] [Cheaper Inferece: tokens mais acessíveis](https://cheaperinference.com)
 - \[AI\] [Claude Academy](https://academy.claude.com) Treinamento Gratuito 
 - \[AI\] [ClawPatrol: Security firewall for agents](https://github.com/denoland/clawpatrol)
+- \[AI\] [Cloudflare OS: An AI productivity environment](https://github.com/cloudflare/cloudflare-os)
 - \[AI\] [Code review performed by a team of expert AI agents](https://every.to/source-code/i-stopped-reading-code-my-code-reviews-got-better)
 - \[AI\] [Como criar um agente com LLM local de graça e sem depender de APIs](https://medium.com/data-hackers/como-criar-um-agente-com-llm-local-de-gra%C3%A7a-e-sem-depender-de-apis-3de981e6d420)
 - \[AI\] [Context compression layer for AI agents: 60-95% fewer tokens, same answers](https://github.com/headroomlabs-ai/headroom)
