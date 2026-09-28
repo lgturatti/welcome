@@ -9,6 +9,7 @@ While this is not ready, use your browser's search function to find the words or
 Oh! And don't forget to give a star if this content was useful to you. Thank you for your visit.
 
 ## Artificial Intelligence (AI) / Inteligência Artificial
+- \[AI\] [50+ hacks to ship faster with coding agents](https://hackbook-chi.vercel.app)
 - \[AI\] [A brief history of Notion’s data catalog](https://www.notion.so/blog/a-brief-history-of-notions-data-catalog)
 - \[AI\] [A fast Video Generator for the GPU Poor](https://github.com/deepbeepmeep/Wan2GP) Supports Wan 2.1/2.2, LTX-2, Qwen Image, Hunyuan Video, LTX Video and Flux.
 - \[AI\] [Academia OpenAI](https://academy.openai.com/public/content) (Coleção Gratuita)
@@ -175,6 +176,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - [Linux: Pop!OS by System76 baseado em Debian/Ubuntu](https://pop.system76.com/)
 - [Linux Kernel @Unicamp LKCamp GitLab](https://lkcamp.gitlab.io/lkcamp_docs/)
 - [MiniOS: seu Debian PC em um pendrive](https://minios.dev)
+- [Open CAD Studio: DWG, DXF, desenho 2D e modelagem 3D](https://www.opencadstudio.com/pt-BR/)
 - [Personalização do Manjaro Linux com Omakub](https://www.akitaonrails.com/2024/10/30/omakub-pra-manjaro-e-archwsl)
 - [PS5: Running Linux](https://github.com/ps5-linux/ps5-linux-loader)
 - [Which Linux Filesystem Should You Use?](https://m.youtube.com/watch?v=4kMt5RtDZ7g)
