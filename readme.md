@@ -42,6 +42,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[AI\] [WisprFloa: Voz para texto](https://wisprflow.ai)
 
 ## Articles / Artigos
+- \[DEV\] [12 melhorias do CSS sem complementos](https://flaviocopes.com/modern-css-features/)
 - \[DEV\] [Análise independente de modelos de IA e APIs](https://artificialanalysis.ai)
 - \[DEV\] [As habilidades de um engenheiro senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)
 - \[DEV\] [Benchmark test with code sample for one billion nested loop iterations](https://benjdd.com/languages/)
@@ -52,6 +53,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[DEV\] [Como automatizar totalmente a limpeza de dados com Python em 5 etapas](https://www.kdnuggets.com/how-to-fully-automate-data-cleaning-with-python-in-5-steps)
 - \[DEV\] [Como fazer uma apresentação impecável apenas com o ChatGPT](https://forbes.com.br/forbes-tech/2024/11/como-fazer-uma-apresentacao-impecavel-apenas-com-o-chatgpt)
 - \[DEV\] [Como identificar se um texto foi escrito por Inteligência Artificial](https://forbes.com.br/forbes-tech/2024/11/como-identificar-se-um-texto-foi-escrito-por-inteligencia-artificial)
+- \[DEV\] [Comparativo sobre os planos de hospedagem gratuitos](https://flaviocopes.com/hosting-free-tiers/) SET.2026
 - \[DEV\] [Concorrencia e worker pools em Go: conhecimento necessario](https://rifeli.dev/blog/2026-05-27-concorrencia-worker-pools-go/)
 - \[DEV\] [Destravando o navegador](https://www.sacredheartsc.com/blog/browser-de-slop/) (Desativando coisas superfluas)
 - \[DEV\] [Discover the 5 Best Automation Tools for Bug Bounty Hunters](https://www.linkedin.com/pulse/discover-5-best-automation-tools-bug-bounty-hunters-qxghc/)
@@ -64,6 +66,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[DEV\] [Firecrawl: How to Scrape Entire Websites With a Single Command in Python](https://medium.datadriveninvestor.com/firecrawl-how-to-scrape-entire-websites-with-a-single-command-in-python-5a8940183c91)
 - \[DEV\] [Fixed Header + Sticky Footer with Dynamic height](https://medium.com/@DivyanshBatham/fixed-header-sticky-footer-with-dynamic-height-947f6669b981)
 - [Generation Breakdown](https://www.usatoday.com/story/graphics/2024/10/08/generation-names-years-explained/74701974007/) Find your generation
+- \[DEV\] [Guia completo sobre o Cloudflare Quick Tunnels](https://flaviocopes.com/cloudflare-quick-tunnels/)
 - \[DEV\] [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 - \[DEV\] [Não se enrole. Use aquilo que já está pronto](https://susam.net/do-not-roll-your-own.html)
 - \[DEV\] [Otimização de APIs em Produção: Usando FastAPI e Gunicorn](https://medium.com/data-hackers/otimiza%C3%A7%C3%A3o-de-apis-em-produ%C3%A7%C3%A3o-usando-fastapi-e-gunicorn-3eec9bd24ef4)
