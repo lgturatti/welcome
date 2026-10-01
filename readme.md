@@ -65,7 +65,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[DEV\] [Explorando diretivas customizadas no GraphQL](https://medium.com/profusion-engineering/explorando-diretivas-customizadas-no-graphql-d7830eb675e4)
 - \[DEV\] [Firecrawl: How to Scrape Entire Websites With a Single Command in Python](https://medium.datadriveninvestor.com/firecrawl-how-to-scrape-entire-websites-with-a-single-command-in-python-5a8940183c91)
 - \[DEV\] [Fixed Header + Sticky Footer with Dynamic height](https://medium.com/@DivyanshBatham/fixed-header-sticky-footer-with-dynamic-height-947f6669b981)
-- [Generation Breakdown](https://www.usatoday.com/story/graphics/2024/10/08/generation-names-years-explained/74701974007/) Find your generation
+- \[DEV\] [Generation Breakdown](https://www.usatoday.com/story/graphics/2024/10/08/generation-names-years-explained/74701974007/) Find your generation
 - \[DEV\] [Guia completo sobre o Cloudflare Quick Tunnels](https://flaviocopes.com/cloudflare-quick-tunnels/)
 - \[DEV\] [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 - \[DEV\] [Não se enrole. Use aquilo que já está pronto](https://susam.net/do-not-roll-your-own.html)
@@ -74,7 +74,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[DEV\] [React 19 Stable Release: What’s New and How to Upgrade](https://dev.to/gladiatorsbattle/react-19-stable-release-whats-new-and-how-to-upgrade-299d)
 - \[DEV\] [Reverse Engineering Shared Libraries on Linux: A Technical Study](https://vangeancexyz.blogspot.com/2026/07/confin.html)
 - \[DEV\] [Script para tornar fácio o scrcpy no desktop](https://plus.diolinux.com.br/t/um-utilitario-para-o-scrcpy-facil-e-conveniente/83599)
-- \[DEV\] [Seu executável é um banco de dados SQLite](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database
+- \[DEV\] [Seu executável é um banco de dados SQLite](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
 - \[DEV\] [Software Testing 101: A Beginner's Guide to Types and Techniques](https://www.linkedin.com/comm/pulse/software-testing-101-beginners-guide-types-techniques-wgphc)
 - \[DEV\] [Using Claude Code to update an old project](https://flaviocopes.notion.site/Using-Claude-Code-to-update-an-old-project-2bdaaea99f25816482ece526963da474)
 - \[DEV\] [Why We Killed Our End-to-End Test Suite - E2E Nubank](https://building.nubank.com/pt-br/why-we-killed-our-end-to-end-test-suite/)
