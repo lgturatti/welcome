@@ -70,7 +70,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[DEV\] [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 - \[DEV\] [Não se enrole. Use aquilo que já está pronto](https://susam.net/do-not-roll-your-own.html)
 - \[DEV\] [Otimização de APIs em Produção: Usando FastAPI e Gunicorn](https://medium.com/data-hackers/otimiza%C3%A7%C3%A3o-de-apis-em-produ%C3%A7%C3%A3o-usando-fastapi-e-gunicorn-3eec9bd24ef4)
-- \[DEV\] [Programação - Por que iniciantes ficam sobrecarregados aprendendo a programar (e como consertar isso)](https://www.linkedin.com/pulse/why-beginners-get-overwhelmed-learning-code-how-fix-w3schools-com-nt6fe)
+- \[DEV\] [Por que iniciantes ficam sobrecarregados aprendendo a programar (e como consertar isso)](https://www.linkedin.com/pulse/why-beginners-get-overwhelmed-learning-code-how-fix-w3schools-com-nt6fe)
 - \[DEV\] [React 19 Stable Release: What’s New and How to Upgrade](https://dev.to/gladiatorsbattle/react-19-stable-release-whats-new-and-how-to-upgrade-299d)
 - \[DEV\] [Reverse Engineering Shared Libraries on Linux: A Technical Study](https://vangeancexyz.blogspot.com/2026/07/confin.html)
 - \[DEV\] [Script para tornar fácio o scrcpy no desktop](https://plus.diolinux.com.br/t/um-utilitario-para-o-scrcpy-facil-e-conveniente/83599)
