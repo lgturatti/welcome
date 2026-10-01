@@ -147,7 +147,7 @@ Oh! And don't forget to give a star if this content was useful to you. Thank you
 - \[GIT\] [INK: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
 - \[GIT\] [IscariotSuite: a collection of tools to enhance and augment trusted open-source](https://gitlab.com/badsectorlabs/iscariot-suite)
 - \[GIT\] [Linux: MacOS style AppImage installer and management](https://github.com/kem-a/AppManager) [Veja como](https://m.youtube.com/watch?v=tmzvCrl18LA)
-- \[GIT\] [MemReduct: Lightweight real-time memory management application to monitor and clean system memory on your Windows](https://github.com/henrypp/memreduct)
+- \[GIT\] [MemReduct: Lightweight real-time memory management on Windows](https://github.com/henrypp/memreduct)
 - \[GIT\] [OpenRecall: Windows Recall Open Source](https://github.com/openrecall/openrecall)
 - \[GIT\] [OpenWRT: Transforme seu TVBox com Android antigo em um roteador Linux](https://github.com/ophub/amlogic-s9xxx-openwrt)
 - \[GIT\] [Optical File Transfer (screen + camera)](https://github.com/bashalarmistalt/decimen-optical-transfer/)
